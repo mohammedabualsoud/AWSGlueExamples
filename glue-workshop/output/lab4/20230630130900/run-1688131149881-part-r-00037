@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,C,"Office Supplies","North America",2108,5/12/16,6/16/16,MX,493924558
+Offline,M,"Personal Care","North America",3034,7/14/13,8/8/13,MX,952696883
+Offline,H,"Baby Food","Middle East and North Africa",3428,1/2/11,1/24/11,LB,738182389

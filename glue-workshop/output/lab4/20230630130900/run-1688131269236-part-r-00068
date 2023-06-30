@@ -1,0 +1,3 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,H,"Baby Food",Asia,1655,12/4/12,1/21/13,SG,992229640
+Offline,C,"Baby Food","Middle East and North Africa",8694,1/23/10,3/9/10,AF,162812507

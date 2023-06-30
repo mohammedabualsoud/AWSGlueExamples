@@ -1,0 +1,6 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,H,"Office Supplies",Asia,9855,1/26/10,1/30/10,MM,731851089
+Online,H,Cereal,Asia,416,4/3/13,4/22/13,MM,493614709
+Offline,L,Cereal,Europe,9031,10/14/15,11/13/15,RO,537472903
+Online,H,"Personal Care",Europe,5366,10/26/14,12/5/14,RO,304831826
+Offline,L,Cereal,Europe,4957,5/28/12,7/1/12,RO,227208697

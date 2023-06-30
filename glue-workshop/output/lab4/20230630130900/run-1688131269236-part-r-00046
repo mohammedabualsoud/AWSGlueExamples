@@ -1,0 +1,3 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,C,Cosmetics,"North America",6556,3/31/12,5/7/12,GL,320245301
+Online,L,Beverages,"North America",5217,3/15/12,3/16/12,GL,209096705

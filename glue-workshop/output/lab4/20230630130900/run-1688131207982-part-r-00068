@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,C,Cosmetics,"Middle East and North Africa",1539,5/29/12,6/13/12,AF,881693446
+Offline,M,"Personal Care","Middle East and North Africa",9768,9/21/12,9/28/12,AF,400513732
+Online,M,"Baby Food","Middle East and North Africa",2507,7/8/16,7/14/16,AF,174382483

@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,C,Vegetables,"Sub-Saharan Africa",6826,9/16/14,10/8/14,RW,452341735
+Online,L,Meat,"Australia and Oceania",5075,9/15/12,10/11/12,PW,572232186
+Offline,C,"Baby Food","Australia and Oceania",5223,1/8/13,2/23/13,PW,681619536

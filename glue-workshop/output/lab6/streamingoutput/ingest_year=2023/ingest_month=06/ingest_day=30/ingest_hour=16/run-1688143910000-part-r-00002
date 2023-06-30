@@ -1,0 +1,86 @@
+Code,uuid,Country,"Item Type","Sales Channel","Order Priority","Order Date",Region,"Ship Date","Units Sold","Unit Price","Unit Cost","Total Revenue","Total Cost","Total Profit"
+AS,,,,,,,,,,,,,,
+AI,,,,,,,,,,,,,,
+AQ,,,,,,,,,,,,,,
+AG,,,,,,,,,,,,,,
+AZ,,,,,,,,,,,,,,
+BH,223005139,Bahrain,Fruits,Offline,M,9/13/13,"Middle East and North Africa",10/16/13,1031,9.33,6.92,9619.23,7134.52,2484.71
+BH,104006469,Bahrain,Fruits,Online,H,5/1/15,"Middle East and North Africa",5/1/15,6680,9.33,6.92,62324.4,46225.6,16098.8
+BJ,357202708,Benin,Snacks,Online,L,4/2/12,"Sub-Saharan Africa",5/22/12,3074,152.58,97.44,469030.92,299530.56,169500.36
+BJ,661237752,Benin,Clothes,Online,C,7/3/17,"Sub-Saharan Africa",7/14/17,3800,109.28,35.84,415264,136192,279072
+BT,,,,,,,,,,,,,,
+IO,,,,,,,,,,,,,,
+BG,253312385,Bulgaria,Cereal,Online,C,12/27/16,Europe,12/29/16,9619,205.7,117.11,1978628.3,1126481.09,852147.21
+BG,942725503,Bulgaria,Household,Online,M,4/26/15,Europe,6/13/15,2281,668.27,502.54,1524323.87,1146293.74,378030.13
+BI,809735143,Burundi,Meat,Offline,L,6/29/17,"Sub-Saharan Africa",7/11/17,7478,421.89,364.69,3154893.42,2727151.82,427741.6
+BI,344281756,Burundi,Meat,Online,C,11/8/10,"Sub-Saharan Africa",12/15/10,9477,421.89,364.69,3998251.53,3456167.13,542084.4
+CF,,,,,,,,,,,,,,
+CU,,,,,,,,,,,,,,
+DK,934329545,Denmark,Clothes,Online,M,11/20/13,Europe,12/25/13,7730,109.28,35.84,844734.4,277043.2,567691.2
+DK,835680902,Denmark,Cosmetics,Offline,C,8/26/16,Europe,8/29/16,5404,437.2,263.33,2362628.8,1423035.32,939593.48
+DK,490608060,Denmark,"Personal Care",Online,L,1/28/16,Europe,1/30/16,682,81.73,56.67,55739.86,38648.94,17090.92
+DK,841613948,Denmark,Snacks,Offline,M,2/17/13,Europe,3/25/13,1125,152.58,97.44,171652.5,109620,62032.5
+DK,920998322,Denmark,"Baby Food",Online,L,4/11/15,Europe,4/18/15,2725,255.28,159.42,695638,434419.5,261218.5
+DJ,,,,,,,,,,,,,,
+DM,,,,,,,,,,,,,,
+ET,775668513,Ethiopia,Clothes,Online,M,5/26/10,"Sub-Saharan Africa",6/15/10,6405,109.28,35.84,699938.4,229555.2,470383.2
+ET,721735942,Ethiopia,Household,Offline,L,1/24/10,"Sub-Saharan Africa",2/1/10,6559,668.27,502.54,4383182.93,3296159.86,1087023.07
+FO,,,,,,,,,,,,,,
+FR,915730035,France,"Personal Care",Online,L,2/7/11,Europe,2/13/11,3722,81.73,56.67,304199.06,210925.74,93273.32
+PF,,,,,,,,,,,,,,
+TF,,,,,,,,,,,,,,
+GM,,,,,,,,,,,,,,
+DE,,,,,,,,,,,,,,
+JO,,,,,,,,,,,,,,
+KE,,,,,,,,,,,,,,
+KI,865186059,Kiribati,Meat,Online,M,1/15/13,"Australia and Oceania",1/23/13,6636,421.89,364.69,2799662.04,2420082.84,379579.2
+KI,149546945,Kiribati,Clothes,Online,L,2/3/11,"Australia and Oceania",2/15/11,3119,109.28,35.84,340844.32,111784.96,229059.36
+KW,557541406,Kuwait,Beverages,Offline,L,7/5/13,"Middle East and North Africa",8/7/13,7747,47.45,31.79,367595.15,246277.13,121318.02
+KG,,,,,,,,,,,,,,
+LR,,,,,,,,,,,,,,
+LY,989962852,Libya,Meat,Offline,H,2/13/10,"Middle East and North Africa",2/28/10,862,421.89,364.69,363669.18,314362.78,49306.4
+LY,447197902,Libya,Beverages,Online,M,11/16/12,"Middle East and North Africa",12/18/12,4652,47.45,31.79,220737.4,147887.08,72850.32
+MV,,,,,,,,,,,,,,
+MT,,,,,,,,,,,,,,
+MU,,,,,,,,,,,,,,
+YT,,,,,,,,,,,,,,
+NA,679668176,Namibia,Snacks,Online,C,4/24/11,"Sub-Saharan Africa",5/17/11,7772,152.58,97.44,1185851.76,757303.68,428548.08
+NA,125572288,Namibia,"Personal Care",Online,C,4/8/15,"Sub-Saharan Africa",5/26/15,8485,81.73,56.67,693479.05,480844.95,212634.1
+NA,808714616,Namibia,"Personal Care",Online,H,6/26/16,"Sub-Saharan Africa",7/18/16,5481,81.73,56.67,447962.13,310608.27,137353.86
+NR,340645968,Nauru,Beverages,Online,C,8/10/12,"Australia and Oceania",9/13/12,3567,47.45,31.79,169254.15,113394.93,55859.22
+NR,627770221,Nauru,Snacks,Offline,L,8/26/10,"Australia and Oceania",8/30/10,14,152.58,97.44,2136.12,1364.16,771.96
+NC,,,,,,,,,,,,,,
+NZ,917008912,"New Zealand",Clothes,Offline,L,8/21/11,"Australia and Oceania",9/14/11,2170,109.28,35.84,237137.6,77772.8,159364.8
+NE,654174745,Niger,Vegetables,Online,M,7/9/10,"Sub-Saharan Africa",8/6/10,3699,154.06,90.93,569867.94,336350.07,233517.87
+NF,,,,,,,,,,,,,,
+MP,,,,,,,,,,,,,,
+OM,474228990,Oman,Fruits,Online,L,11/28/15,"Middle East and North Africa",12/16/15,3751,9.33,6.92,34996.83,25956.92,9039.91
+OM,913737046,Oman,Beverages,Online,H,5/31/10,"Middle East and North Africa",7/19/10,3952,47.45,31.79,187522.4,125634.08,61888.32
+PK,540973079,Pakistan,Snacks,Offline,L,9/17/15,"Middle East and North Africa",10/20/15,4810,152.58,97.44,733909.8,468686.4,265223.4
+PS,,,,,,,,,,,,,,
+PY,,,,,,,,,,,,,,
+PE,,,,,,,,,,,,,,
+PL,165410602,Poland,"Personal Care",Offline,C,2/27/11,Europe,3/27/11,7528,81.73,56.67,615263.44,426611.76,188651.68
+PL,833995616,Poland,"Baby Food",Online,C,10/7/15,Europe,11/8/15,6691,255.28,159.42,1708078.48,1066679.22,641399.26
+PL,821932113,Poland,Household,Online,L,2/19/14,Europe,3/24/14,6832,668.27,502.54,4565620.64,3433353.28,1132267.36
+RU,,,,,,,,,,,,,,
+RW,650272881,Rwanda,Clothes,Offline,L,6/15/11,"Sub-Saharan Africa",7/9/11,9051,109.28,35.84,989093.28,324387.84,664705.44
+RE,,,,,,,,,,,,,,
+MF,,,,,,,,,,,,,,
+WS,,,,,,,,,,,,,,
+SM,810393035,"San Marino",Clothes,Online,M,11/9/12,Europe,11/21/12,2163,109.28,35.84,236372.64,77521.92,158850.72
+SL,815935552,"Sierra Leone",Vegetables,Online,M,9/30/13,"Sub-Saharan Africa",11/2/13,2316,154.06,90.93,356802.96,210593.88,146209.08
+SL,549950969,"Sierra Leone",Meat,Offline,M,8/30/13,"Sub-Saharan Africa",8/31/13,1568,421.89,364.69,661523.52,571833.92,89689.6
+SK,657094705,Slovakia,Beverages,Offline,M,1/20/15,Europe,1/28/15,7780,47.45,31.79,369161,247326.2,121834.8
+SI,741539227,Slovenia,Cosmetics,Offline,L,4/27/11,Europe,4/28/11,6791,437.2,263.33,2969025.2,1788274.03,1180751.17
+SB,800155580,"Solomon Islands",Snacks,Offline,L,10/26/13,"Australia and Oceania",11/29/13,2672,152.58,97.44,407693.76,260359.68,147334.08
+GS,,,,,,,,,,,,,,
+LK,183973634,"Sri Lanka",Snacks,Offline,C,10/10/10,Asia,10/30/10,741,152.58,97.44,113061.78,72203.04,40858.74
+TL,,,,,,,,,,,,,,
+TO,619291007,Tonga,Beverages,Online,C,4/5/11,"Australia and Oceania",4/26/11,826,47.45,31.79,39193.7,26258.54,12935.16
+TN,,,,,,,,,,,,,,
+TC,,,,,,,,,,,,,,
+UG,128163516,Uganda,Cosmetics,Online,C,11/5/11,"Sub-Saharan Africa",11/5/11,5287,437.2,263.33,2311476.4,1392225.71,919250.69
+UG,994622600,Uganda,Beverages,Offline,C,8/18/11,"Sub-Saharan Africa",9/11/11,9785,47.45,31.79,464298.25,311065.15,153233.1
+UZ,,,,,,,,,,,,,,
+YE,,,,,,,,,,,,,,

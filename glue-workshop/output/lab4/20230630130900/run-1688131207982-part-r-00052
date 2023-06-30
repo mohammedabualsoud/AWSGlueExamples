@@ -1,0 +1,5 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,L,Vegetables,"Australia and Oceania",4510,3/30/14,4/22/14,PG,905256974
+Online,H,Household,"Australia and Oceania",4151,1/8/17,1/23/17,PG,660157573
+Online,H,Household,"Middle East and North Africa",2465,10/7/12,10/23/12,SO,366155707
+Online,H,Fruits,"Middle East and North Africa",5388,8/5/15,9/18/15,SO,454263055

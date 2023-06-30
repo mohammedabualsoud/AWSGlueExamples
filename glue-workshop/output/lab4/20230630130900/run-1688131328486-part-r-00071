@@ -1,0 +1,5 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,C,Meat,"Sub-Saharan Africa",8864,5/25/12,5/29/12,SZ,391961133
+Offline,L,"Personal Care","Sub-Saharan Africa",8315,7/1/15,7/26/15,SZ,303557670
+Online,M,"Personal Care","Sub-Saharan Africa",7587,2/18/15,3/5/15,CV,170986592
+Online,M,"Personal Care","Central America and the Caribbean",3129,9/24/13,10/20/13,SV,388900411

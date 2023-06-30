@@ -1,0 +1,5 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,C,Beverages,"Australia and Oceania",826,4/5/11,4/26/11,TO,619291007
+Online,M,Cereal,"Australia and Oceania",3052,6/22/14,6/23/14,TO,179149091
+Offline,H,"Personal Care","Sub-Saharan Africa",9939,6/12/12,6/13/12,BI,467254817
+Online,C,Cosmetics,"Sub-Saharan Africa",4845,5/8/13,5/13/13,BI,818951642

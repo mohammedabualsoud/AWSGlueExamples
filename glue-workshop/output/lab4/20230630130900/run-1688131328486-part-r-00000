@@ -1,0 +1,3 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,L,"Office Supplies","Middle East and North Africa",669,6/14/16,7/17/16,MA,933832585
+Online,H,Vegetables,"Middle East and North Africa",7463,1/2/13,1/28/13,MA,892696082

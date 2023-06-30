@@ -1,0 +1,7 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,L,Meat,"Middle East and North Africa",7590,4/13/16,5/16/16,PK,663987767
+Offline,L,"Office Supplies","Middle East and North Africa",3906,7/11/11,7/28/11,BH,432901084
+Offline,C,Clothes,"Middle East and North Africa",1661,3/25/15,4/26/15,BH,178231990
+Online,M,"Baby Food","Middle East and North Africa",8245,6/18/17,7/27/17,BH,286154210
+Online,C,Household,"Central America and the Caribbean",3705,4/21/17,5/1/17,GT,325034224
+Online,M,Vegetables,"Central America and the Caribbean",2471,8/20/10,10/3/10,GT,589356267

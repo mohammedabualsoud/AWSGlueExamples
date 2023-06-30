@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,C,"Office Supplies",Asia,7524,9/20/13,11/8/13,TH,472890031
+Online,L,Vegetables,Asia,6113,7/21/12,8/14/12,TH,829195106
+Online,C,"Baby Food",Asia,4860,3/10/17,4/22/17,IN,473016202

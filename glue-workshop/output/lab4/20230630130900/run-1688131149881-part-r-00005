@@ -1,0 +1,10 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,C,Cosmetics,"Central America and the Caribbean",1031,12/27/13,1/1/14,HT,554646337
+Online,L,Fruits,"Central America and the Caribbean",1663,9/16/15,9/24/15,HT,464185512
+Offline,L,Household,Europe,3322,3/10/15,4/17/15,MT,243761575
+Offline,M,Beverages,Europe,6815,2/21/12,3/4/12,MT,712680375
+Online,L,"Office Supplies",Europe,317,7/11/12,8/16/12,MT,949747741
+Offline,C,"Baby Food","Australia and Oceania",845,7/2/14,7/29/14,TV,698872792
+Offline,M,Meat,"Australia and Oceania",7894,10/18/13,11/26/13,TV,789291989
+Online,L,Vegetables,"Australia and Oceania",9157,5/11/13,5/28/13,TV,631214177
+Offline,L,Vegetables,"Australia and Oceania",8672,12/7/16,1/9/17,TV,546291577

@@ -1,0 +1,5 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,M,Cosmetics,"Sub-Saharan Africa",5588,3/18/16,5/5/16,MR,257928359
+Offline,C,Cereal,"Sub-Saharan Africa",3740,3/1/12,3/6/12,MR,430366075
+Offline,L,Cereal,"Sub-Saharan Africa",255,6/19/17,7/14/17,NG,325394284
+Offline,C,Vegetables,"Sub-Saharan Africa",1524,12/26/13,1/19/14,NG,573538100

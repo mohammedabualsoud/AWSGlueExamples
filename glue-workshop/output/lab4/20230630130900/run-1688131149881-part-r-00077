@@ -1,0 +1,5 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,C,Snacks,Europe,5137,6/9/15,7/23/15,GR,707132709
+Offline,C,Meat,"Middle East and North Africa",2567,8/9/15,8/11/15,LY,875276315
+Offline,H,"Baby Food","Middle East and North Africa",2320,4/15/16,5/18/16,LY,511869180
+Offline,C,Household,"Middle East and North Africa",9498,5/7/16,6/8/16,LY,654937779

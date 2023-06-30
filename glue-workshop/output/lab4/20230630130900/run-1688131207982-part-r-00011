@@ -1,0 +1,11 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,M,Cereal,Europe,4861,3/30/14,4/13/14,FR,256912124
+Online,L,"Office Supplies",Europe,8633,10/4/13,10/30/13,FR,534565389
+Offline,C,Clothes,Europe,7777,2/15/15,3/10/15,FR,223568618
+Offline,C,"Personal Care",Europe,5865,11/8/16,12/13/16,UA,855721509
+Online,H,Cereal,Europe,5836,3/19/11,4/8/11,UA,179935729
+Offline,C,"Baby Food",Europe,1089,8/12/15,9/27/15,UA,818601024
+Offline,L,Household,Europe,4088,8/22/12,8/28/12,UA,868320167
+Online,L,"Personal Care","Middle East and North Africa",7957,2/7/10,3/25/10,EG,450757300
+Offline,M,Household,"Middle East and North Africa",1144,4/24/10,6/10/10,EG,412312018
+Online,M,Clothes,"Middle East and North Africa",2844,8/19/16,9/8/16,EG,415257728

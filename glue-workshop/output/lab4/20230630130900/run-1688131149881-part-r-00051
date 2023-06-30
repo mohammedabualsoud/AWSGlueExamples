@@ -1,0 +1,8 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,M,"Baby Food",Europe,5173,3/26/11,5/15/11,CH,540298449
+Online,L,Meat,Europe,4269,7/31/12,8/1/12,CH,966319501
+Offline,C,"Personal Care",Europe,9193,2/19/14,3/1/14,CH,212827336
+Online,C,Meat,"Middle East and North Africa",8877,10/19/14,10/20/14,AE,121383321
+Online,C,Cosmetics,"Middle East and North Africa",70,2/18/12,3/9/12,AE,692686116
+Online,H,Fruits,"Middle East and North Africa",2384,7/15/14,8/27/14,AE,195130765
+Online,C,Fruits,"Middle East and North Africa",2572,9/24/12,10/29/12,AE,391737115

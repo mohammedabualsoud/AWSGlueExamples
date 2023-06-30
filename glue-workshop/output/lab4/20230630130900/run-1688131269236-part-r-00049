@@ -1,0 +1,7 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,L,Beverages,"Middle East and North Africa",1711,8/11/16,9/15/16,DZ,599728047
+Offline,C,Household,"Australia and Oceania",6792,4/25/14,6/12/14,NZ,746135032
+Online,M,Fruits,"Australia and Oceania",5092,6/18/14,6/20/14,NZ,105116260
+Online,L,Fruits,Europe,2894,12/6/15,12/28/15,MC,682355105
+Offline,H,Clothes,Europe,9754,4/3/14,5/11/14,MC,337084853
+Online,L,Household,Europe,6813,10/10/10,10/15/10,MC,454166495

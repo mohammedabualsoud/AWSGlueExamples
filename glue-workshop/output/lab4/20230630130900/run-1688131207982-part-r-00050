@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,L,Clothes,Asia,8919,5/15/16,6/9/16,BT,297882544
+Offline,C,Meat,"Sub-Saharan Africa",3098,9/3/13,9/22/13,CM,869263017
+Offline,C,"Baby Food","Sub-Saharan Africa",7289,9/16/16,10/5/16,CM,328358018

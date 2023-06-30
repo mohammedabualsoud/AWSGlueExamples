@@ -1,0 +1,7 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,C,Fruits,"Sub-Saharan Africa",1218,2/14/14,3/8/14,GQ,706612575
+Offline,M,Meat,"Sub-Saharan Africa",2388,8/22/11,9/12/11,GQ,700736606
+Offline,M,Meat,"Sub-Saharan Africa",8857,3/9/13,4/12/13,GQ,687883460
+Offline,C,Household,"Sub-Saharan Africa",4690,11/6/13,12/5/13,GQ,883123385
+Online,H,Vegetables,"Sub-Saharan Africa",8887,2/20/15,3/17/15,GQ,440825402
+Offline,M,Cereal,Europe,3234,5/16/11,5/28/11,RS,550497281

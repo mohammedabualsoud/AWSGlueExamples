@@ -1,0 +1,7 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,C,"Baby Food",Europe,8278,4/25/11,6/6/11,ME,997523677
+Offline,H,"Office Supplies",Europe,3922,6/27/12,7/17/12,ME,403771865
+Online,L,Meat,Asia,1168,8/27/10,9/16/10,KH,130717837
+Online,H,Clothes,Asia,4454,9/29/13,11/15/13,KH,323448503
+Online,H,"Personal Care",Asia,2471,12/17/16,2/2/17,KH,652244412
+Offline,H,Beverages,Asia,8581,4/27/11,4/29/11,KH,963833415

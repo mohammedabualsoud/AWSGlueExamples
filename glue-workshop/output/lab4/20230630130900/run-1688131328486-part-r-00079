@@ -1,0 +1,5 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,C,Household,"Sub-Saharan Africa",6667,9/14/10,10/1/10,RW,954365003
+Online,C,"Personal Care","Sub-Saharan Africa",6153,8/15/13,9/1/13,RW,808885848
+Online,C,Beverages,"Australia and Oceania",2472,11/29/12,12/6/12,PW,664849078
+Online,M,Snacks,"Australia and Oceania",4993,6/23/10,6/26/10,PW,135867249

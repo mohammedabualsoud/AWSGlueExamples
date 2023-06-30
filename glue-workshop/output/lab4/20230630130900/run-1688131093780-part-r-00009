@@ -1,0 +1,3 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,M,Fruits,"Sub-Saharan Africa",9986,12/9/15,1/18/16,ST,854349935
+Online,M,"Personal Care","Sub-Saharan Africa",9118,9/17/14,10/12/14,ST,892836844

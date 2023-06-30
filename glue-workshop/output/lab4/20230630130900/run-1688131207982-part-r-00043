@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,H,"Office Supplies","Central America and the Caribbean",7334,1/12/13,2/5/13,BZ,368841779
+Online,C,Household,"Central America and the Caribbean",8343,8/18/12,9/27/12,BZ,318291366
+Offline,H,"Baby Food","Central America and the Caribbean",7630,4/1/16,4/16/16,BZ,872387254

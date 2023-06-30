@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,L,Household,"Sub-Saharan Africa",3568,5/13/11,6/8/11,GQ,436752307
+Offline,H,"Baby Food","Sub-Saharan Africa",3687,6/28/17,7/6/17,GQ,747510039
+Online,H,Fruits,Europe,8546,8/12/10,9/23/10,RS,148348748

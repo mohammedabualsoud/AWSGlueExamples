@@ -1,0 +1,5 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,H,Fruits,"Middle East and North Africa",2811,1/1/13,2/16/13,DZ,161305749
+Online,M,"Personal Care",Europe,3159,8/9/14,8/30/14,MC,248187863
+Offline,M,Cereal,Europe,3756,3/19/15,4/6/15,MC,522417342
+Online,C,Cereal,Europe,5585,1/7/16,1/11/16,MC,270397841

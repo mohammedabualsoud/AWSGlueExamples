@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,C,Household,Europe,1535,10/25/16,12/6/16,SE,767203891
+Offline,C,Vegetables,Europe,318,8/10/10,9/5/10,SE,872024619
+Offline,H,Cereal,Europe,9003,7/29/10,8/10/10,SE,392367112

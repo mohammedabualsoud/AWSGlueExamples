@@ -1,0 +1,6 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,C,"Office Supplies",Asia,3795,10/20/15,11/14/15,MV,249372756
+Online,L,Meat,Asia,35,2/11/11,3/5/11,MV,567923486
+Offline,C,Meat,Asia,3654,2/25/11,4/16/11,MV,853821647
+Offline,L,Snacks,Asia,1398,6/10/17,6/14/17,MV,618177783
+Online,L,Meat,Europe,3981,8/30/10,9/30/10,IE,321250379

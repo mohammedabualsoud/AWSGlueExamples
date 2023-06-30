@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,C,Beverages,Europe,8374,5/21/17,6/2/17,LT,154734981
+Online,L,Beverages,Europe,8446,2/12/16,2/15/16,LT,256822860
+Offline,C,Snacks,Europe,996,7/22/11,8/1/11,LT,449314486

@@ -1,0 +1,3 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,C,Meat,"Middle East and North Africa",56,4/13/10,4/27/10,KW,815691363
+Offline,M,Meat,"Middle East and North Africa",8478,10/27/16,12/3/16,KW,105871140

@@ -1,0 +1,65 @@
+Code,uuid,Country,"Item Type","Sales Channel","Order Priority","Order Date",Region,"Ship Date","Units Sold","Unit Price","Unit Cost","Total Revenue","Total Cost","Total Profit"
+AF,,,,,,,,,,,,,,
+AO,464813363,Angola,Cosmetics,Offline,L,4/1/10,"Sub-Saharan Africa",4/8/10,7458,437.2,263.33,3260637.6,1963915.14,1296722.46
+AM,,,,,,,,,,,,,,
+AW,,,,,,,,,,,,,,
+BE,,,,,,,,,,,,,,
+BZ,129280602,Belize,Household,Offline,H,2/4/10,"Central America and the Caribbean",3/5/10,5858,668.27,502.54,3914725.66,2943879.32,970846.34
+BM,,,,,,,,,,,,,,
+BW,751023089,Botswana,"Baby Food",Offline,H,7/11/14,"Sub-Saharan Africa",8/13/14,3276,255.28,159.42,836297.28,522259.92,314037.36
+BR,,,,,,,,,,,,,,
+BN,,,,,,,,,,,,,,
+KH,509274518,Cambodia,Vegetables,Offline,H,6/14/17,Asia,6/29/17,4502,154.06,90.93,693578.12,409366.86,284211.26
+TD,,,,,,,,,,,,,,
+CX,,,,,,,,,,,,,,
+CC,,,,,,,,,,,,,,
+CR,,,,,,,,,,,,,,
+HR,,,,,,,,,,,,,,
+CW,,,,,,,,,,,,,,
+CY,459109055,Cyprus,Snacks,Offline,C,8/25/14,Europe,10/13/14,9427,152.58,97.44,1438371.66,918566.88,519804.78
+EG,887517058,Egypt,Cereal,Online,C,7/14/14,"Middle East and North Africa",8/20/14,4875,205.7,117.11,1002787.5,570911.25,431876.25
+SV,,,,,,,,,,,,,,
+ER,527171504,Eritrea,Cosmetics,Offline,H,8/30/10,"Sub-Saharan Africa",10/7/10,618,437.2,263.33,270189.6,162737.94,107451.66
+FK,,,,,,,,,,,,,,
+FI,,,,,,,,,,,,,,
+GI,,,,,,,,,,,,,,
+GG,,,,,,,,,,,,,,
+GW,,,,,,,,,,,,,,
+HT,554646337,Haiti,Cosmetics,Online,C,12/27/13,"Central America and the Caribbean",1/1/14,1031,437.2,263.33,450753.2,271493.23,179259.97
+HM,,,,,,,,,,,,,,
+VA,,,,,,,,,,,,,,
+HK,,,,,,,,,,,,,,
+IQ,,,,,,,,,,,,,,
+IT,278155219,Italy,Clothes,Online,M,12/17/13,Europe,1/10/14,1165,109.28,35.84,127311.2,41753.6,85557.6
+JP,,,,,,,,,,,,,,
+JE,,,,,,,,,,,,,,
+KZ,471623599,Kazakhstan,Cosmetics,Online,H,9/11/15,Asia,9/18/15,2758,437.2,263.33,1205797.6,726264.14,479533.46
+KP,,,,,,,,,,,,,,
+LS,,,,,,,,,,,,,,
+LU,829408824,Luxembourg,Meat,Offline,C,1/7/13,Europe,2/23/13,9357,421.89,364.69,3947624.73,3412404.33,535220.4
+ML,,,,,,,,,,,,,,
+MH,,,,,,,,,,,,,,
+FM,,,,,,,,,,,,,,
+NL,,,,,,,,,,,,,,
+PW,,,,,,,,,,,,,,
+PH,,,,,,,,,,,,,,
+RO,,,,,,,,,,,,,,
+LC,,,,,,,,,,,,,,
+PM,,,,,,,,,,,,,,
+VC,429833495,"Saint Vincent and the Grenadines","Personal Care",Offline,L,12/1/15,"Central America and the Caribbean",12/8/15,6138,81.73,56.67,501658.74,347840.46,153818.28
+SA,529418551,"Saudi Arabia",Vegetables,Online,H,11/4/11,"Middle East and North Africa",11/20/11,5569,154.06,90.93,857960.14,506389.17,351570.97
+SC,,,,,,,,,,,,,,
+SX,,,,,,,,,,,,,,
+SO,239166629,Somalia,Beverages,Offline,M,7/17/16,"Middle East and North Africa",8/20/16,3575,47.45,31.79,169633.75,113649.25,55984.5
+ES,,,,,,,,,,,,,,
+SZ,,,,,,,,,,,,,,
+SE,,,,,,,,,,,,,,
+TW,,,,,,,,,,,,,,
+TH,,,,,,,,,,,,,,
+TK,,,,,,,,,,,,,,
+TR,772153747,Turkey,Fruits,Online,C,3/26/12,"Middle East and North Africa",4/7/12,6307,9.33,6.92,58844.31,43644.44,15199.87
+TR,566964757,Turkey,Clothes,Online,M,11/20/12,"Middle East and North Africa",12/7/12,6326,109.28,35.84,691305.28,226723.84,464581.44
+TV,,,,,,,,,,,,,,
+VE,,,,,,,,,,,,,,
+VI,,,,,,,,,,,,,,
+AX,,,,,,,,,,,,,,

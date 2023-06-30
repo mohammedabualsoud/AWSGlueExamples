@@ -1,0 +1,6 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,H,Household,Europe,9875,2/15/10,3/26/10,IS,918961131
+Online,H,Fruits,Europe,743,5/8/11,5/11/11,IS,880474221
+Online,H,Fruits,"Sub-Saharan Africa",7711,12/25/14,2/3/15,MZ,273784291
+Online,M,"Personal Care","Sub-Saharan Africa",7245,12/6/12,1/11/13,MZ,576058089
+Online,C,Snacks,"Sub-Saharan Africa",6033,5/11/12,5/23/12,MZ,825173509

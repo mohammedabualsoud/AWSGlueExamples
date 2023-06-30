@@ -1,0 +1,8 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,M,Fruits,"Middle East and North Africa",1031,9/13/13,10/16/13,BH,223005139
+Online,H,Fruits,"Middle East and North Africa",6680,5/1/15,5/1/15,BH,104006469
+Offline,L,"Baby Food","Middle East and North Africa",6419,7/11/14,8/21/14,BH,728156077
+Online,L,Fruits,"Middle East and North Africa",5457,1/23/11,3/7/11,BH,964532506
+Offline,M,Cosmetics,"Central America and the Caribbean",4667,6/27/14,7/31/14,GT,681043183
+Online,L,Clothes,"Central America and the Caribbean",1354,6/22/17,6/26/17,GT,310123717
+Offline,H,"Office Supplies","Central America and the Caribbean",8622,4/30/14,6/18/14,GT,965320432

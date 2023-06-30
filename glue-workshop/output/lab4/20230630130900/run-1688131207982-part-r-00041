@@ -1,0 +1,6 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,H,Fruits,"Sub-Saharan Africa",7737,3/13/10,3/30/10,NE,144358479
+Offline,C,Snacks,"Sub-Saharan Africa",6268,10/16/11,11/28/11,NE,311018931
+Online,M,Vegetables,"Sub-Saharan Africa",3699,7/9/10,8/6/10,NE,654174745
+Online,L,"Office Supplies",Europe,6471,3/6/17,4/19/17,CZ,997618949
+Offline,H,Cereal,Europe,3792,2/3/17,2/25/17,CZ,775321757

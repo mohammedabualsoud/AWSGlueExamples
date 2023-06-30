@@ -1,0 +1,11 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,C,"Baby Food",Europe,6810,12/13/15,1/23/16,HR,924053466
+Online,M,Snacks,Europe,6509,4/11/12,4/21/12,HR,845754849
+Online,C,Beverages,Europe,3376,11/2/13,11/21/13,HR,314320838
+Online,C,"Personal Care","Sub-Saharan Africa",8485,4/8/15,5/26/15,NA,125572288
+Online,H,"Personal Care","Sub-Saharan Africa",5481,6/26/16,7/18/16,NA,808714616
+Offline,H,Meat,"Sub-Saharan Africa",218,5/1/13,5/22/13,MW,774633824
+Online,L,Household,"Sub-Saharan Africa",944,11/22/14,12/1/14,MW,155825030
+Offline,L,Fruits,"Sub-Saharan Africa",1665,10/27/10,11/2/10,MW,292721545
+Online,C,Household,Asia,5040,9/2/12,9/19/12,TM,830576980
+Offline,M,Fruits,Asia,6244,5/22/17,7/4/17,TM,813312995

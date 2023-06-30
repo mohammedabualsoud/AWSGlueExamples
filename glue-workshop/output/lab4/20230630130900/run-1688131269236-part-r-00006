@@ -1,0 +1,5 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,H,Cereal,Europe,5850,7/24/16,8/16/16,CY,191898381
+Online,H,Vegetables,Europe,7751,10/21/14,11/15/14,CY,349581372
+Offline,H,Beverages,Europe,7958,8/26/13,9/17/13,CY,340998733
+Offline,L,Household,"Sub-Saharan Africa",2601,9/21/13,10/3/13,ER,505990207

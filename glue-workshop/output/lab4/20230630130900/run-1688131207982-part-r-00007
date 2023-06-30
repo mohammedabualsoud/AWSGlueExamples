@@ -1,0 +1,8 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,C,Cereal,Asia,8270,6/23/14,6/27/14,MV,846267688
+Online,L,Cereal,Asia,1527,10/22/15,12/5/15,MV,340368735
+Online,M,Fruits,Europe,3342,9/9/10,10/11/10,IE,313104188
+Offline,H,Fruits,Europe,9966,9/7/14,10/14/14,IE,485401570
+Offline,C,"Baby Food","Sub-Saharan Africa",2752,9/19/15,10/4/15,GA,216387593
+Offline,L,Meat,"Sub-Saharan Africa",5599,12/22/11,1/7/12,GA,581966245
+Offline,C,Vegetables,"Sub-Saharan Africa",4524,4/18/14,4/20/14,GA,959494245

@@ -1,0 +1,3 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,C,Vegetables,Europe,4903,8/30/10,10/19/10,BY,641506564
+Online,M,Vegetables,Asia,4546,11/8/10,11/25/10,KZ,178072774

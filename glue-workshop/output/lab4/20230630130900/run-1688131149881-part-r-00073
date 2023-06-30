@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,H,Fruits,Europe,5984,5/25/13,6/4/13,LT,644990861
+Online,C,"Baby Food",Europe,1285,3/28/10,4/28/10,LT,546638333
+Offline,C,"Baby Food",Europe,713,3/24/12,3/31/12,LT,188670718

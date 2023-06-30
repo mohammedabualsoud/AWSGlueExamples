@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,M,"Office Supplies",Asia,5181,11/2/12,11/8/12,ID,608052766
+Offline,H,Cosmetics,Asia,5487,7/28/14,8/26/14,ID,830646073
+Online,C,Cosmetics,"Middle East and North Africa",502,6/27/11,7/6/11,JO,764294230

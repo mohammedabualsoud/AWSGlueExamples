@@ -1,0 +1,3 @@
+v1
+{"batchWatermarkMs":0,"batchTimestampMs":1688131380200,"conf":{"spark.sql.streaming.stateStore.providerClass":"org.apache.spark.sql.execution.streaming.state.HDFSBackedStateStoreProvider","spark.sql.streaming.flatMapGroupsWithState.stateFormatVersion":"2","spark.sql.streaming.multipleWatermarkPolicy":"min","spark.sql.streaming.aggregation.stateFormatVersion":"2","spark.sql.shuffle.partitions":"80"}}
+{"metadata":{"streamName":"glueworkshop","batchId":"14"},"shardId-000000000001":{"iteratorType":"AFTER_SEQUENCE_NUMBER","iteratorPosition":"49642180329191185348510270654719790404293557662282416146"},"shardId-000000000000":{"iteratorType":"TRIM_HORIZON","iteratorPosition":""}}

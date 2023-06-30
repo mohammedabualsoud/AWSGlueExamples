@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,M,Cosmetics,Europe,5316,3/31/17,5/2/17,SI,194363439
+Offline,M,Clothes,"Central America and the Caribbean",8257,10/28/13,11/2/13,CR,284329450
+Online,H,Cereal,"Central America and the Caribbean",5199,1/31/13,2/16/13,CR,683038747

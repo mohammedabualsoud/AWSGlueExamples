@@ -1,0 +1,6 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,L,Beverages,"Australia and Oceania",4328,3/25/14,5/10/14,TV,241129148
+Online,M,Snacks,"Australia and Oceania",3655,6/8/14,6/25/14,TV,290058648
+Offline,H,Clothes,"Australia and Oceania",4333,12/30/10,1/11/11,TV,693038451
+Online,M,Cereal,Europe,1253,8/27/13,9/25/13,AT,317895686
+Offline,L,Beverages,Europe,5403,7/12/12,8/14/12,AT,282157075

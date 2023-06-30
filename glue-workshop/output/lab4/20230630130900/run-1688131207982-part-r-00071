@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,L,Cereal,"Sub-Saharan Africa",6126,3/5/16,3/9/16,SZ,618092381
+Online,L,"Personal Care","Sub-Saharan Africa",4813,8/14/12,8/21/12,CV,192266595
+Online,C,Fruits,"Sub-Saharan Africa",6181,2/15/13,2/20/13,CV,409659421

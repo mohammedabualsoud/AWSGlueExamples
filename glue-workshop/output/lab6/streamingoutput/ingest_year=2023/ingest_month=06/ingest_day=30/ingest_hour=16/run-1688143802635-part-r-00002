@@ -1,0 +1,81 @@
+Code,uuid,Country,"Item Type","Sales Channel","Order Priority","Order Date",Region,"Ship Date","Units Sold","Unit Price","Unit Cost","Total Revenue","Total Cost","Total Profit"
+AS,,,,,,,,,,,,,,
+AI,,,,,,,,,,,,,,
+AQ,,,,,,,,,,,,,,
+AG,,,,,,,,,,,,,,
+AZ,714965188,Azerbaijan,Cosmetics,Offline,L,6/11/15,"Middle East and North Africa",6/26/15,2942,437.2,263.33,1286242.4,774716.86,511525.54
+BH,911431205,Bahrain,Fruits,Online,L,2/8/14,"Middle East and North Africa",2/12/14,1602,9.33,6.92,14946.66,11085.84,3860.82
+BJ,456246173,Benin,Fruits,Offline,C,9/7/11,"Sub-Saharan Africa",9/7/11,2236,9.33,6.92,20861.88,15473.12,5388.76
+BT,297882544,Bhutan,Clothes,Offline,L,5/15/16,Asia,6/9/16,8919,109.28,35.84,974668.32,319656.96,655011.36
+IO,,,,,,,,,,,,,,
+BG,381527554,Bulgaria,Clothes,Offline,H,3/20/11,Europe,4/17/11,1337,109.28,35.84,146107.36,47918.08,98189.28
+BG,377610242,Bulgaria,Household,Offline,M,2/17/17,Europe,3/17/17,2117,668.27,502.54,1414727.59,1063877.18,350850.41
+BI,,,,,,,,,,,,,,
+CF,295185744,"Central African Republic",Household,Online,C,9/22/14,"Sub-Saharan Africa",10/15/14,876,668.27,502.54,585404.52,440225.04,145179.48
+CU,,,,,,,,,,,,,,
+DK,528461110,Denmark,Clothes,Online,L,7/28/12,Europe,9/15/12,2241,109.28,35.84,244896.48,80317.44,164579.04
+DJ,805993783,Djibouti,"Office Supplies",Offline,H,3/8/14,"Sub-Saharan Africa",3/18/14,326,651.21,524.96,212294.46,171136.96,41157.5
+DM,,,,,,,,,,,,,,
+ET,230451381,Ethiopia,Vegetables,Offline,M,2/25/17,"Sub-Saharan Africa",2/25/17,4540,154.06,90.93,699432.4,412822.2,286610.2
+ET,850148522,Ethiopia,Fruits,Offline,M,12/18/12,"Sub-Saharan Africa",1/5/13,6695,9.33,6.92,62464.35,46329.4,16134.95
+FO,,,,,,,,,,,,,,
+FR,256912124,France,Cereal,Offline,M,3/30/14,Europe,4/13/14,4861,205.7,117.11,999907.7,569271.71,430635.99
+FR,534565389,France,"Office Supplies",Online,L,10/4/13,Europe,10/30/13,8633,651.21,524.96,5621895.93,4531979.68,1089916.25
+FR,223568618,France,Clothes,Offline,C,2/15/15,Europe,3/10/15,7777,109.28,35.84,849870.56,278727.68,571142.88
+PF,,,,,,,,,,,,,,
+TF,,,,,,,,,,,,,,
+GM,,,,,,,,,,,,,,
+DE,866280829,Germany,"Office Supplies",Offline,L,10/5/11,Europe,10/14/11,603,651.21,524.96,392679.63,316550.88,76128.75
+JO,764294230,Jordan,Cosmetics,Online,C,6/27/11,"Middle East and North Africa",7/6/11,502,437.2,263.33,219474.4,132191.66,87282.74
+KE,558815562,Kenya,"Baby Food",Online,H,10/30/12,"Sub-Saharan Africa",12/17/12,4798,255.28,159.42,1224833.44,764897.16,459936.28
+KI,,,,,,,,,,,,,,
+KW,613531339,Kuwait,Cereal,Offline,L,3/21/15,"Middle East and North Africa",4/3/15,6412,205.7,117.11,1318948.4,750909.32,568039.08
+KG,,,,,,,,,,,,,,
+LR,,,,,,,,,,,,,,
+LY,,,,,,,,,,,,,,
+MV,618177783,Maldives,Snacks,Offline,L,6/10/17,Asia,6/14/17,1398,152.58,97.44,213306.84,136221.12,77085.72
+MV,846267688,Maldives,Cereal,Offline,C,6/23/14,Asia,6/27/14,8270,205.7,117.11,1701139,968499.7,732639.3
+MV,340368735,Maldives,Cereal,Online,L,10/22/15,Asia,12/5/15,1527,205.7,117.11,314103.9,178826.97,135276.93
+MT,211249339,Malta,"Office Supplies",Online,L,11/15/11,Europe,12/6/11,2229,651.21,524.96,1451547.09,1170135.84,281411.25
+MU,,,,,,,,,,,,,,
+YT,,,,,,,,,,,,,,
+NA,493249928,Namibia,Meat,Offline,L,11/18/11,"Sub-Saharan Africa",11/19/11,2470,421.89,364.69,1042068.3,900784.3,141284
+NR,,,,,,,,,,,,,,
+NC,,,,,,,,,,,,,,
+NZ,,,,,,,,,,,,,,
+NE,144358479,Niger,Fruits,Offline,H,3/13/10,"Sub-Saharan Africa",3/30/10,7737,9.33,6.92,72186.21,53540.04,18646.17
+NE,311018931,Niger,Snacks,Offline,C,10/16/11,"Sub-Saharan Africa",11/28/11,6268,152.58,97.44,956371.44,610753.92,345617.52
+NF,,,,,,,,,,,,,,
+MP,,,,,,,,,,,,,,
+OM,,,,,,,,,,,,,,
+PK,553712069,Pakistan,Snacks,Offline,C,1/10/11,"Middle East and North Africa",1/17/11,4561,152.58,97.44,695917.38,444423.84,251493.54
+PK,785381543,Pakistan,Vegetables,Offline,H,8/28/16,"Middle East and North Africa",9/17/16,706,154.06,90.93,108766.36,64196.58,44569.78
+PK,371423995,Pakistan,Cosmetics,Online,H,12/8/16,"Middle East and North Africa",12/24/16,1469,437.2,263.33,642246.8,386831.77,255415.03
+PS,,,,,,,,,,,,,,
+PY,,,,,,,,,,,,,,
+PE,,,,,,,,,,,,,,
+PL,,,,,,,,,,,,,,
+RU,,,,,,,,,,,,,,
+RW,452341735,Rwanda,Vegetables,Offline,C,9/16/14,"Sub-Saharan Africa",10/8/14,6826,154.06,90.93,1051613.56,620688.18,430925.38
+RE,,,,,,,,,,,,,,
+MF,,,,,,,,,,,,,,
+WS,,,,,,,,,,,,,,
+SM,648454988,"San Marino","Office Supplies",Online,L,5/1/12,Europe,5/24/12,1096,651.21,524.96,713726.16,575356.16,138370
+SL,339462792,"Sierra Leone","Personal Care",Offline,L,7/17/12,"Sub-Saharan Africa",7/30/12,3439,81.73,56.67,281069.47,194888.13,86181.34
+SL,567848813,"Sierra Leone",Cereal,Offline,H,3/23/11,"Sub-Saharan Africa",4/7/11,7937,205.7,117.11,1632640.9,929502.07,703138.83
+SK,391645276,Slovakia,Snacks,Online,C,9/11/16,Europe,10/30/16,5395,152.58,97.44,823169.1,525688.8,297480.3
+SK,880773770,Slovakia,Household,Online,H,4/4/15,Europe,4/25/15,9386,668.27,502.54,6272382.22,4716840.44,1555541.78
+SI,461179292,Slovenia,Cereal,Online,C,2/17/13,Europe,3/27/13,2056,205.7,117.11,422919.2,240778.16,182141.04
+SI,394351947,Slovenia,"Personal Care",Online,M,5/15/15,Europe,5/17/15,6359,81.73,56.67,519721.07,360364.53,159356.54
+SB,,,,,,,,,,,,,,
+GS,,,,,,,,,,,,,,
+LK,635446488,"Sri Lanka","Office Supplies",Online,L,12/8/13,Asia,1/9/14,1592,651.21,524.96,1036726.32,835736.32,200990
+TL,,,,,,,,,,,,,,
+TO,946762120,Tonga,Vegetables,Online,L,12/4/15,"Australia and Oceania",12/13/15,6805,154.06,90.93,1048378.3,618778.65,429599.65
+TO,520107209,Tonga,"Personal Care",Offline,H,4/18/12,"Australia and Oceania",5/5/12,136,81.73,56.67,11115.28,7707.12,3408.16
+TN,,,,,,,,,,,,,,
+TC,,,,,,,,,,,,,,
+UG,838066995,Uganda,Cereal,Online,C,11/2/10,"Sub-Saharan Africa",12/21/10,1502,205.7,117.11,308961.4,175899.22,133062.18
+UG,336002099,Uganda,"Office Supplies",Online,H,11/12/15,"Sub-Saharan Africa",11/29/15,9343,651.21,524.96,6084255.03,4904701.28,1179553.75
+UZ,961737859,Uzbekistan,Meat,Online,H,3/21/13,Asia,4/5/13,8459,421.89,364.69,3568767.51,3084912.71,483854.8
+YE,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,L,Vegetables,Europe,2212,8/26/11,9/8/11,PT,947118318
+Offline,C,Clothes,Europe,8793,5/20/17,6/28/17,PT,223572051
+Online,H,"Baby Food","Central America and the Caribbean",128,7/12/11,7/25/11,DO,669639718
+Offline,H,"Office Supplies","Central America and the Caribbean",1527,12/26/13,12/28/13,DO,639974486
+Offline,L,Cosmetics,"Central America and the Caribbean",7407,10/13/10,10/28/10,DO,121040427

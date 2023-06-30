@@ -1,0 +1,7 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,C,Clothes,"Sub-Saharan Africa",3800,7/3/17,7/14/17,BJ,661237752
+Online,L,"Baby Food","Sub-Saharan Africa",9201,12/9/15,1/10/16,BJ,201675784
+Offline,H,Snacks,"Middle East and North Africa",1781,10/19/12,11/2/12,IL,139100492
+Offline,M,"Baby Food","Middle East and North Africa",6013,1/10/10,1/23/10,IL,562570655
+Online,H,"Baby Food","Middle East and North Africa",1356,3/22/11,4/25/11,IL,813364064
+Online,H,Snacks,"Middle East and North Africa",2691,1/31/17,2/4/17,IL,757374131

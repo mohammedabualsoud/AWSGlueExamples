@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,L,Clothes,Europe,2241,7/28/12,9/15/12,DK,528461110
+Online,M,Clothes,Europe,7730,11/20/13,12/25/13,DK,934329545
+Offline,C,Cosmetics,Europe,5404,8/26/16,8/29/16,DK,835680902

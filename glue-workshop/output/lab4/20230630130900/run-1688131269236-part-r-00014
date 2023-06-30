@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,L,"Personal Care",Europe,4656,10/13/12,11/24/12,GB,136305415
+Offline,C,"Baby Food",Europe,65,1/15/17,1/23/17,GB,675350463
+Online,M,Clothes,Europe,9753,10/8/16,10/14/16,NO,955727136

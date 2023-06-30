@@ -1,0 +1,5 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,L,Meat,"Sub-Saharan Africa",2171,8/19/10,8/29/10,KE,689482915
+Online,M,Meat,"Sub-Saharan Africa",7266,4/25/12,5/2/12,KE,622556865
+Offline,C,"Office Supplies","Sub-Saharan Africa",9450,3/7/11,4/14/11,KE,733269011
+Offline,L,Fruits,"Sub-Saharan Africa",7560,8/19/16,9/8/16,KE,864175403

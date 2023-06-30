@@ -1,0 +1,11 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,L,Household,"Middle East and North Africa",3290,8/30/16,9/10/16,IQ,959659039
+Online,H,Fruits,"Middle East and North Africa",9720,5/12/10,5/16/10,IQ,529128444
+Online,L,Beverages,"Middle East and North Africa",2152,6/3/12,7/5/12,IQ,980403888
+Offline,L,Snacks,"Sub-Saharan Africa",3197,9/8/10,10/5/10,GW,479431188
+Online,M,"Personal Care","Sub-Saharan Africa",7753,7/30/16,8/26/16,GW,327920281
+Offline,L,Household,Asia,4614,8/30/14,10/6/14,LK,339500558
+Offline,M,Clothes,Asia,3392,5/24/10,6/22/10,LK,300026595
+Offline,M,Cereal,Asia,4932,2/8/15,3/26/15,LK,235454022
+Offline,H,Cosmetics,Asia,849,11/30/11,1/12/12,LK,513756597
+Offline,L,"Personal Care",Asia,3794,2/21/17,4/2/17,LK,563813483

@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,H,Snacks,Europe,8217,12/29/12,1/15/13,GB,847788178
+Offline,C,Clothes,Europe,8794,5/7/15,5/14/15,GB,757665097
+Offline,M,Household,Europe,9823,9/19/12,11/1/12,NO,818731915

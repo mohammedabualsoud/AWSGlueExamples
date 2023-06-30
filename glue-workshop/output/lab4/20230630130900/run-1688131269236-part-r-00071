@@ -1,0 +1,9 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,L,"Baby Food","Sub-Saharan Africa",6911,7/26/17,9/9/17,SZ,473698985
+Offline,L,Beverages,"Sub-Saharan Africa",8805,4/11/11,5/8/11,SZ,225160348
+Online,L,"Personal Care","Sub-Saharan Africa",5205,1/24/17,1/30/17,SZ,303614747
+Offline,C,"Personal Care","Sub-Saharan Africa",9953,3/31/10,4/19/10,CV,356854236
+Online,L,"Baby Food","Sub-Saharan Africa",9770,10/21/13,12/3/13,CV,327386415
+Online,L,Cosmetics,"Central America and the Caribbean",3193,4/30/10,6/14/10,SV,415225112
+Offline,C,Cosmetics,"Central America and the Caribbean",3790,7/10/13,8/23/13,SV,974225366
+Online,L,Cereal,"Central America and the Caribbean",3724,9/26/16,10/17/16,SV,993588340

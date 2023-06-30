@@ -1,0 +1,6 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,M,Fruits,"Middle East and North Africa",5938,1/26/17,2/12/17,DZ,571288907
+Online,L,Meat,"Central America and the Caribbean",4569,7/22/11,8/8/11,CU,727811896
+Online,M,"Office Supplies",Europe,5137,1/13/12,1/17/12,MC,982711875
+Online,H,Cosmetics,Europe,2581,3/28/17,4/26/17,MC,953540170
+Offline,H,Cereal,Europe,7829,1/8/11,1/22/11,MC,832681548

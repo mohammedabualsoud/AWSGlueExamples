@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,M,Vegetables,"Middle East and North Africa",5261,1/29/16,3/12/16,MA,371943700
+Offline,H,Clothes,"Middle East and North Africa",7474,5/29/15,7/3/15,MA,588900077
+Online,M,"Baby Food",Asia,238,4/8/17,5/11/17,MN,938900029

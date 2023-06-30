@@ -1,0 +1,7 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,L,Meat,Europe,4711,7/18/13,8/24/13,EE,238900125
+Offline,L,Snacks,Europe,9504,7/17/16,7/19/16,EE,708904683
+Offline,L,Snacks,"Sub-Saharan Africa",9762,4/12/10,5/19/10,ZA,148690783
+Online,C,Fruits,"Sub-Saharan Africa",5712,11/22/11,12/3/11,ZA,985146892
+Offline,M,Clothes,"Sub-Saharan Africa",9875,1/18/17,1/18/17,ZA,622768437
+Offline,H,Vegetables,"Sub-Saharan Africa",1120,4/7/12,4/8/12,ZA,647035777

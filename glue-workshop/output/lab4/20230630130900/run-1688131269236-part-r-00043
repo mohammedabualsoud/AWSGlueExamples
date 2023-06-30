@@ -1,0 +1,7 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,C,Vegetables,"Central America and the Caribbean",2730,4/16/17,5/16/17,BZ,642141282
+Online,L,Vegetables,"Central America and the Caribbean",4000,2/7/15,2/12/15,BZ,582670485
+Offline,L,Clothes,"Central America and the Caribbean",9632,9/7/13,9/27/13,BZ,338402354
+Offline,M,"Personal Care",Asia,6185,3/15/17,4/9/17,MY,374346101
+Online,H,Vegetables,Asia,1366,8/4/16,9/8/16,MY,603308904
+Offline,L,Snacks,"Australia and Oceania",2672,10/26/13,11/29/13,SB,800155580

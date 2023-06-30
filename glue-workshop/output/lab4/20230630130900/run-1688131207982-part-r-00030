@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,C,Beverages,Europe,204,12/23/10,1/5/11,PT,767266976
+Online,L,"Office Supplies",Europe,5895,4/9/13,4/17/13,PT,974570405
+Online,M,"Personal Care","Central America and the Caribbean",7259,6/21/10,8/6/10,DO,911653077

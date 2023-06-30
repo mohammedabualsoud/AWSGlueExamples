@@ -1,0 +1,3 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,H,Clothes,Europe,6750,12/6/15,1/10/16,BG,495325744
+Online,H,"Office Supplies",Europe,7795,7/16/15,8/20/15,BG,342011964

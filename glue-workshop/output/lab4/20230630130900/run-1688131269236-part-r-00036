@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,L,"Office Supplies",Asia,1108,12/30/14,1/27/15,NP,831881606
+Offline,L,Vegetables,Asia,1587,10/9/10,10/28/10,NP,487738740
+Offline,H,"Office Supplies",Asia,1564,12/10/15,1/29/16,NP,525789201

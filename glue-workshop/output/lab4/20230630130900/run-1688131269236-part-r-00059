@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,M,Household,"Central America and the Caribbean",375,5/12/17,5/12/17,NI,117029130
+Online,M,Clothes,"Central America and the Caribbean",1197,6/26/12,6/26/12,NI,462257754
+Online,L,Vegetables,"Central America and the Caribbean",2183,12/15/15,1/5/16,NI,757372415

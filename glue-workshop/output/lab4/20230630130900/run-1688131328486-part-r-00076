@@ -1,0 +1,9 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,H,"Personal Care","Central America and the Caribbean",7350,7/23/12,8/7/12,HN,481506574
+Offline,L,Snacks,"Central America and the Caribbean",8383,7/24/14,7/24/14,HN,392905700
+Offline,M,Snacks,"Australia and Oceania",8581,2/19/12,3/31/12,MH,403483474
+Offline,H,Cosmetics,"Australia and Oceania",5039,7/29/12,8/18/12,MH,386811721
+Online,M,"Office Supplies","Australia and Oceania",5115,6/15/15,7/9/15,MH,986496579
+Online,L,"Office Supplies","Australia and Oceania",6396,9/7/10,9/16/10,MH,908000552
+Online,C,"Office Supplies","Australia and Oceania",1408,10/29/13,11/5/13,MH,427553403
+Offline,L,Cosmetics,"Sub-Saharan Africa",9330,7/26/14,8/25/14,UG,377871167

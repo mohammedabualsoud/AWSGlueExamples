@@ -1,0 +1,6 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,C,Snacks,"Middle East and North Africa",4561,1/10/11,1/17/11,PK,553712069
+Offline,H,Vegetables,"Middle East and North Africa",706,8/28/16,9/17/16,PK,785381543
+Online,H,Cosmetics,"Middle East and North Africa",1469,12/8/16,12/24/16,PK,371423995
+Offline,L,Snacks,"Middle East and North Africa",4810,9/17/15,10/20/15,PK,540973079
+Online,L,Fruits,"Middle East and North Africa",1602,2/8/14,2/12/14,BH,911431205

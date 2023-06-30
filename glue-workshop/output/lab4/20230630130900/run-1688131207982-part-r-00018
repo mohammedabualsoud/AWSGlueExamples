@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,C,Fruits,Europe,5984,2/26/13,3/15/13,HU,968623197
+Offline,M,"Personal Care",Europe,996,8/10/12,9/22/12,HU,465332210
+Offline,H,Snacks,Europe,470,10/26/16,11/1/16,HU,646492898

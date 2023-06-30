@@ -1,0 +1,7 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,H,Household,Asia,208,7/28/10,9/2/10,TJ,247096526
+Online,H,"Office Supplies",Asia,632,7/19/14,8/2/14,TJ,803291404
+Online,C,Clothes,Asia,4535,7/3/16,8/18/16,TJ,734604108
+Offline,C,Beverages,"Sub-Saharan Africa",7285,5/22/11,5/24/11,KM,426559484
+Online,M,Vegetables,"Sub-Saharan Africa",6890,9/28/16,10/10/16,KM,568994224
+Offline,C,Clothes,"Sub-Saharan Africa",5000,1/14/12,2/26/12,KM,415129840

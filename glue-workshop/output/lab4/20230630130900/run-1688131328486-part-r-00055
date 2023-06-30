@@ -1,0 +1,6 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,M,Snacks,Asia,3810,6/6/16,7/13/16,TH,100110614
+Offline,H,Cosmetics,Asia,9637,10/2/12,10/18/12,TH,743441236
+Offline,L,"Office Supplies",Asia,7330,11/17/14,11/30/14,TH,747218215
+Online,M,Snacks,Asia,2941,1/7/12,1/18/12,IN,212907588
+Online,L,"Personal Care",Asia,4021,2/24/10,3/11/10,IN,310132730

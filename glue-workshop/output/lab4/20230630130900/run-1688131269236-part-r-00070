@@ -1,0 +1,5 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,C,Household,Asia,4669,11/6/14,12/14/14,JP,678812873
+Online,C,Snacks,Europe,172,4/16/13,5/26/13,FI,800451266
+Offline,L,Snacks,Europe,6554,11/9/10,11/24/10,FI,184094655
+Online,C,Meat,Europe,7598,4/4/15,4/13/15,FI,691697776

@@ -1,0 +1,3 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,M,Cosmetics,Europe,7964,3/31/13,5/3/13,DE,754046475
+Online,M,Meat,"Sub-Saharan Africa",5173,9/21/13,11/3/13,CF,414522159

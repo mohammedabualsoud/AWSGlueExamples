@@ -1,0 +1,5 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,C,Vegetables,Europe,3718,3/3/14,3/31/14,BE,453581559
+Online,C,Snacks,Europe,4513,2/2/12,2/10/12,IT,284384381
+Online,L,Cosmetics,Europe,2328,12/6/11,12/8/11,IT,481286847
+Offline,L,Cosmetics,"Middle East and North Africa",2942,6/11/15,6/26/15,AZ,714965188

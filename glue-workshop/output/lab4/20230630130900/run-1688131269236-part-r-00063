@@ -1,0 +1,5 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,L,Beverages,"Middle East and North Africa",7747,7/5/13,8/7/13,KW,557541406
+Offline,C,"Personal Care","Middle East and North Africa",4382,1/14/11,2/4/11,KW,733657395
+Offline,C,"Office Supplies",Europe,2285,1/29/15,2/18/15,LV,466012418
+Online,H,"Personal Care",Europe,5053,8/25/15,9/3/15,LV,323281562

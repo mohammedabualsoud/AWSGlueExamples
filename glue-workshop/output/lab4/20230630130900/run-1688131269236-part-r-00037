@@ -1,0 +1,5 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,C,Snacks,"North America",2438,10/28/11,11/2/11,MX,940394341
+Offline,C,"Personal Care","North America",130,5/12/11,5/13/11,MX,659400546
+Offline,M,Household,"Middle East and North Africa",8155,8/18/14,8/31/14,LB,942779147
+Online,C,Cereal,"Middle East and North Africa",133,8/24/14,10/11/14,LB,162073934

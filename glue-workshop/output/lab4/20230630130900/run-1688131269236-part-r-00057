@@ -1,0 +1,15 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,C,Vegetables,"Sub-Saharan Africa",1170,3/24/14,5/13/14,ET,831814229
+Offline,L,Vegetables,"Sub-Saharan Africa",2479,11/27/14,1/11/15,ET,574791657
+Offline,C,"Personal Care","Middle East and North Africa",9301,12/31/16,1/17/17,IQ,732457482
+Offline,H,"Personal Care","Middle East and North Africa",32,2/25/10,3/17/10,IQ,896016442
+Online,H,"Office Supplies","Sub-Saharan Africa",92,9/17/12,11/5/12,GW,954241406
+Offline,M,"Office Supplies","Sub-Saharan Africa",1466,7/29/12,8/11/12,GW,108314311
+Online,L,Snacks,Europe,1049,12/3/13,1/1/14,ES,420354354
+Offline,C,Snacks,Asia,9455,7/1/12,8/15/12,LK,402945744
+Online,M,Meat,"Australia and Oceania",6636,1/15/13,1/23/13,KI,865186059
+Online,L,Clothes,"Australia and Oceania",3119,2/3/11,2/15/11,KI,149546945
+Online,L,"Personal Care","Australia and Oceania",6595,7/27/12,8/31/12,KI,493196284
+Online,H,Vegetables,"Australia and Oceania",1153,9/1/13,10/12/13,KI,580768477
+Online,C,"Office Supplies",Europe,6043,4/8/16,5/15/16,AD,879275596
+Offline,M,"Office Supplies",Europe,8423,7/31/11,8/5/11,AD,385201108

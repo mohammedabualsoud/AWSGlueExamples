@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,C,Household,"Central America and the Caribbean",7688,6/8/16,7/11/16,JM,411354148
+Offline,L,Meat,"Central America and the Caribbean",1065,5/4/11,5/9/11,JM,500983703
+Online,M,Snacks,"Central America and the Caribbean",3917,5/2/14,5/22/14,JM,748930108

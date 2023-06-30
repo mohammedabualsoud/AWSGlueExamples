@@ -1,0 +1,5 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,M,Snacks,Europe,248,7/11/12,7/22/12,IS,199347627
+Offline,C,"Baby Food","Sub-Saharan Africa",7999,1/28/11,2/6/11,MZ,986337363
+Online,H,"Office Supplies","Sub-Saharan Africa",8519,6/25/17,7/20/17,MZ,398955047
+Offline,L,Cosmetics,"Sub-Saharan Africa",7238,12/22/15,1/7/16,MZ,169836461

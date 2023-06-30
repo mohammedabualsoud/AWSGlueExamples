@@ -1,0 +1,5 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,C,Fruits,"Sub-Saharan Africa",5475,1/4/17,2/6/17,MR,683850705
+Offline,C,Household,"Sub-Saharan Africa",3338,7/30/15,9/14/15,MR,451349961
+Online,M,Vegetables,Asia,4463,9/2/12,10/6/12,PH,629103171
+Online,C,"Baby Food",Asia,5041,4/25/16,6/14/16,PH,231365478

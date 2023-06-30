@@ -1,0 +1,5 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,H,Household,Asia,5248,3/2/12,4/11/12,BT,251405227
+Online,C,Snacks,Asia,6807,3/27/16,5/2/16,BT,289258277
+Offline,H,Cosmetics,"Sub-Saharan Africa",9533,6/2/10,6/5/10,CM,298256337
+Offline,C,"Personal Care","Sub-Saharan Africa",3045,8/12/10,9/15/10,CM,846756923

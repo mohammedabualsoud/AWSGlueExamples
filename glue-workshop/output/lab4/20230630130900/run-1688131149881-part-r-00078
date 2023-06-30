@@ -1,0 +1,10 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,L,"Personal Care","Central America and the Caribbean",6138,12/1/15,12/8/15,VC,429833495
+Offline,C,"Personal Care","Central America and the Caribbean",6575,3/23/11,4/17/11,VC,613700854
+Online,C,Fruits,"Middle East and North Africa",6307,3/26/12,4/7/12,TR,772153747
+Online,M,Clothes,"Middle East and North Africa",6326,11/20/12,12/7/12,TR,566964757
+Online,L,Household,"Middle East and North Africa",6803,1/22/11,1/27/11,TR,553280341
+Online,H,Vegetables,"Middle East and North Africa",5569,11/4/11,11/20/11,SA,529418551
+Online,M,Household,"Middle East and North Africa",8143,4/10/12,5/25/12,SA,968630492
+Offline,C,Snacks,"Middle East and North Africa",3438,1/21/11,2/13/11,SA,725983273
+Offline,C,Meat,"Middle East and North Africa",2776,5/14/12,6/10/12,SA,778731381

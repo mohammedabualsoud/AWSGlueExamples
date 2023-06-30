@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,L,Fruits,"Australia and Oceania",5206,1/10/11,2/5/11,FJ,572367799
+Online,C,Snacks,Europe,5395,9/11/16,10/30/16,SK,391645276
+Online,H,Household,Europe,9386,4/4/15,4/25/15,SK,880773770

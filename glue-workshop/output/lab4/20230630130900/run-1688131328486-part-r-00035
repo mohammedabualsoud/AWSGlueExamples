@@ -1,0 +1,6 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,C,"Office Supplies","Central America and the Caribbean",6508,8/28/11,10/15/11,LC,393980729
+Offline,L,"Office Supplies",Europe,8386,4/8/17,4/9/17,IT,132296693
+Offline,M,Cereal,Europe,6366,8/10/11,9/21/11,IT,871470582
+Offline,C,"Baby Food","Middle East and North Africa",6188,6/24/15,7/12/15,AZ,250935304
+Offline,L,"Office Supplies","Middle East and North Africa",6283,8/18/11,9/18/11,AZ,599743497

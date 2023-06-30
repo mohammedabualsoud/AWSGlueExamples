@@ -1,0 +1,5 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,L,Vegetables,"Australia and Oceania",6805,12/4/15,12/13/15,TO,946762120
+Offline,H,"Personal Care","Australia and Oceania",136,4/18/12,5/5/12,TO,520107209
+Offline,L,Meat,"Sub-Saharan Africa",7478,6/29/17,7/11/17,BI,809735143
+Online,C,Meat,"Sub-Saharan Africa",9477,11/8/10,12/15/10,BI,344281756

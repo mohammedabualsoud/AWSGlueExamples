@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,H,Household,Europe,2851,10/15/10,10/24/10,EE,737977683
+Offline,M,Snacks,"Sub-Saharan Africa",447,1/23/15,2/17/15,ZA,980736052
+Online,M,Beverages,"Sub-Saharan Africa",9999,5/15/12,7/4/12,ZA,485435473

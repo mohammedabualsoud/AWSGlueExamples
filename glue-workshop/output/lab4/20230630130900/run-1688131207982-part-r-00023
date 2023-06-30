@@ -1,0 +1,5 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,M,"Office Supplies","Sub-Saharan Africa",7634,6/4/17,7/10/17,BF,376243388
+Offline,C,Beverages,"Sub-Saharan Africa",2203,1/21/12,2/14/12,BF,467634189
+Online,H,Household,Asia,9091,3/23/14,4/30/14,CN,942174041
+Online,M,"Personal Care",Asia,9085,7/29/13,9/11/13,CN,513108575

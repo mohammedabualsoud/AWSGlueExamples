@@ -1,0 +1,6 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,M,Beverages,"Middle East and North Africa",4652,11/16/12,12/18/12,LY,447197902
+Online,H,Cosmetics,"Middle East and North Africa",7019,11/16/11,11/28/11,LY,610221707
+Offline,M,"Office Supplies","Middle East and North Africa",2520,6/27/14,8/2/14,LY,974221074
+Online,C,Cereal,Europe,3047,10/4/10,10/12/10,AM,145795714
+Offline,M,Snacks,Europe,2679,9/11/12,9/14/12,AM,417318522

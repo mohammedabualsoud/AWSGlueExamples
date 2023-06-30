@@ -1,0 +1,3 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,H,"Baby Food","Sub-Saharan Africa",4798,10/30/12,12/17/12,KE,558815562
+Online,C,Vegetables,"Sub-Saharan Africa",5972,11/28/15,12/5/15,MG,131105792

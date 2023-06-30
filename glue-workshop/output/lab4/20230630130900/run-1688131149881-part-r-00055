@@ -1,0 +1,5 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,M,"Office Supplies",Asia,2819,3/11/16,3/11/16,TH,253086650
+Offline,L,Clothes,Asia,5086,3/9/16,4/9/16,TH,162090671
+Online,C,Cereal,Asia,7044,2/25/17,4/11/17,IN,321801412
+Offline,L,Clothes,Asia,6307,1/27/17,2/21/17,IN,321562373

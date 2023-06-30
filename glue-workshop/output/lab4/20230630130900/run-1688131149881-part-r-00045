@@ -1,0 +1,5 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,L,"Baby Food","Australia and Oceania",7691,3/20/15,4/17/15,TO,418315446
+Online,H,Snacks,"Sub-Saharan Africa",9336,6/25/12,7/31/12,BI,356345260
+Online,C,Snacks,"Sub-Saharan Africa",8038,10/16/16,10/16/16,BI,594342601
+Online,L,"Baby Food","Sub-Saharan Africa",5595,1/14/11,2/23/11,BI,754477775

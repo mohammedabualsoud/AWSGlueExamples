@@ -1,0 +1,3 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,M,Meat,Asia,9882,6/8/17,7/3/17,BT,631047666
+Online,H,Fruits,"Sub-Saharan Africa",6486,12/18/15,2/6/16,CM,370325791

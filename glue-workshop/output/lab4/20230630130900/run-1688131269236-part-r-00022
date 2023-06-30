@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,C,"Personal Care",Europe,861,4/19/12,5/23/12,IS,621690404
+Offline,C,"Baby Food","Sub-Saharan Africa",2835,6/10/13,7/6/13,MZ,290258634
+Offline,C,Household,"Sub-Saharan Africa",8331,6/3/10,6/10/10,MZ,509963309

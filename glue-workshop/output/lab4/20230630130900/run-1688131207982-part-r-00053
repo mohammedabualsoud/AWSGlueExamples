@@ -1,0 +1,5 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,C,Household,Asia,2382,12/15/16,12/30/16,MM,370007789
+Online,L,Vegetables,Europe,6050,9/20/15,9/20/15,RO,259720933
+Offline,H,Vegetables,Europe,4810,5/21/13,6/30/13,RO,710206735
+Online,C,Beverages,"Australia and Oceania",3567,8/10/12,9/13/12,NR,340645968

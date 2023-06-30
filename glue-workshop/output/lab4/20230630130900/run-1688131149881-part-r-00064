@@ -1,0 +1,5 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,H,Snacks,Europe,6165,11/14/14,12/10/14,ME,111743247
+Offline,M,Beverages,Europe,174,5/18/15,6/16/15,ME,988068139
+Offline,H,Vegetables,Asia,4502,6/14/17,6/29/17,KH,509274518
+Offline,C,"Personal Care",Asia,9419,11/21/11,11/22/11,KH,864789950

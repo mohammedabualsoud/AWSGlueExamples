@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,C,"Baby Food",Asia,8183,11/7/10,12/10/10,UZ,207315719
+Online,M,"Personal Care",Asia,655,10/12/15,11/11/15,UZ,461039388
+Offline,M,Clothes,Asia,8402,12/30/10,1/15/11,UZ,156864011

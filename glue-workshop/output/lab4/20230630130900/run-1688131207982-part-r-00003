@@ -1,0 +1,5 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,C,Fruits,"Sub-Saharan Africa",1820,2/3/15,2/4/15,ZW,145048129
+Online,C,Beverages,"Sub-Saharan Africa",2292,7/6/11,7/31/11,ZW,864225184
+Offline,L,"Office Supplies",Europe,603,10/5/11,10/14/11,DE,866280829
+Online,C,Household,"Sub-Saharan Africa",876,9/22/14,10/15/14,CF,295185744

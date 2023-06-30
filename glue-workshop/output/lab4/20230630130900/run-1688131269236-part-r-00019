@@ -1,0 +1,5 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,L,Clothes,"Sub-Saharan Africa",8166,10/25/13,12/11/13,TG,835656440
+Offline,C,Vegetables,"Sub-Saharan Africa",7617,12/6/11,12/25/11,TG,132023751
+Online,C,"Office Supplies",Asia,4839,1/12/16,1/20/16,BD,481396710
+Online,L,Clothes,"Sub-Saharan Africa",7793,7/30/10,8/21/10,GH,437983119

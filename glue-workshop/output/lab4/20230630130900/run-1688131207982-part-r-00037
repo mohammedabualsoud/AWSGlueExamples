@@ -1,0 +1,10 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,M,Fruits,"North America",1865,3/23/11,4/23/11,MX,297655951
+Online,M,Cereal,"North America",5165,12/4/11,12/25/11,MX,425673711
+Online,H,Vegetables,Europe,9498,9/2/10,9/18/10,BA,888242328
+Offline,L,Household,Europe,1241,10/8/13,11/17/13,BA,340333974
+Online,H,Vegetables,Europe,8638,4/14/10,6/2/10,BA,410107028
+Online,C,Snacks,"Middle East and North Africa",9418,7/1/10,7/20/10,LB,761857497
+Offline,H,Cosmetics,"Middle East and North Africa",7542,7/23/13,8/7/13,LB,828050982
+Online,M,Beverages,"Middle East and North Africa",7411,1/6/10,1/29/10,LB,536318480
+Offline,C,Household,"Middle East and North Africa",1963,6/19/10,7/24/10,LB,194825208

@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,L,Cosmetics,Asia,868,5/2/13,6/17/13,BT,926162326
+Offline,M,Meat,"Sub-Saharan Africa",2572,8/9/11,8/18/11,CM,742809092
+Online,M,Clothes,"Sub-Saharan Africa",8092,6/16/17,7/25/17,CM,286390244

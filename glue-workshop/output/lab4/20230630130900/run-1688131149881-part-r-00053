@@ -1,0 +1,3 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,C,Snacks,Asia,6420,5/5/15,6/3/15,MM,167806136
+Online,M,Snacks,Asia,5015,10/27/14,12/15/14,MM,953176677

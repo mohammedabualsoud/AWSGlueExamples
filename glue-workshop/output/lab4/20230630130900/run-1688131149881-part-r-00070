@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,C,Cosmetics,Asia,1251,8/11/10,8/27/10,JP,524808156
+Online,H,Meat,Europe,5308,9/27/16,11/2/16,FI,797900378
+Online,H,Vegetables,Europe,3750,4/10/10,5/23/10,FI,429588878

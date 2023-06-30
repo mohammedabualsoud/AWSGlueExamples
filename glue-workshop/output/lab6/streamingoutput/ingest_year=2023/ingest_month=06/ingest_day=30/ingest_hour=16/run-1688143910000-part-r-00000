@@ -1,0 +1,83 @@
+Code,uuid,Country,"Item Type","Sales Channel","Order Priority","Order Date",Region,"Ship Date","Units Sold","Unit Price","Unit Cost","Total Revenue","Total Cost","Total Profit"
+AL,732570350,Albania,"Office Supplies",Online,H,8/12/13,Europe,9/25/13,2701,651.21,524.96,1758918.21,1417916.96,341001.25
+AL,179066693,Albania,Beverages,Offline,M,4/16/13,Europe,5/8/13,8669,47.45,31.79,411344.05,275587.51,135756.54
+DZ,571585023,Algeria,Household,Online,L,2/23/11,"Middle East and North Africa",3/14/11,3565,668.27,502.54,2382382.55,1791555.1,590827.45
+DZ,743290174,Algeria,Snacks,Offline,H,11/5/11,"Middle East and North Africa",11/25/11,4935,152.58,97.44,752982.3,480866.4,272115.9
+DZ,599728047,Algeria,Beverages,Offline,L,8/11/16,"Middle East and North Africa",9/15/16,1711,47.45,31.79,81186.95,54392.69,26794.26
+AR,,,,,,,,,,,,,,
+AU,,,,,,,,,,,,,,
+AT,,,,,,,,,,,,,,
+BY,785899960,Belarus,"Office Supplies",Offline,C,11/4/16,Europe,11/12/16,4118,651.21,524.96,2681682.78,2161785.28,519897.5
+BY,490151441,Belarus,"Personal Care",Offline,M,2/5/11,Europe,3/26/11,5558,81.73,56.67,454255.34,314971.86,139283.48
+BY,491377532,Belarus,Meat,Offline,C,9/2/16,Europe,10/15/16,8386,421.89,364.69,3537969.54,3058290.34,479679.2
+BO,,,,,,,,,,,,,,
+BA,410107028,"Bosnia and Herzegovina",Vegetables,Online,H,4/14/10,Europe,6/2/10,8638,154.06,90.93,1330770.28,785453.34,545316.94
+BV,,,,,,,,,,,,,,
+BF,467634189,"Burkina Faso",Beverages,Offline,C,1/21/12,"Sub-Saharan Africa",2/14/12,2203,47.45,31.79,104532.35,70033.37,34498.98
+CM,328358018,Cameroon,"Baby Food",Offline,C,9/16/16,"Sub-Saharan Africa",10/5/16,7289,255.28,159.42,1860735.92,1162012.38,698723.54
+CM,298256337,Cameroon,Cosmetics,Offline,H,6/2/10,"Sub-Saharan Africa",6/5/10,9533,437.2,263.33,4167827.6,2510324.89,1657502.71
+CV,356854236,"Cape Verde","Personal Care",Offline,C,3/31/10,"Sub-Saharan Africa",4/19/10,9953,81.73,56.67,813458.69,564036.51,249422.18
+CG,,,,,,,,,,,,,,
+CD,,,,,,,,,,,,,,
+CK,,,,,,,,,,,,,,
+CI,,,,,,,,,,,,,,
+EC,,,,,,,,,,,,,,
+GQ,408806693,"Equatorial Guinea",Vegetables,Offline,C,7/27/14,"Sub-Saharan Africa",9/10/14,3840,154.06,90.93,591590.4,349171.2,242419.2
+FJ,125461566,Fiji,"Personal Care",Online,C,5/21/14,"Australia and Oceania",7/10/14,5720,81.73,56.67,467495.6,324152.4,143343.2
+GF,,,,,,,,,,,,,,
+GA,959494245,Gabon,Vegetables,Offline,C,4/18/14,"Sub-Saharan Africa",4/20/14,4524,154.06,90.93,696967.44,411367.32,285600.12
+GA,606134879,Gabon,"Personal Care",Online,C,3/19/14,"Sub-Saharan Africa",5/8/14,7635,81.73,56.67,624008.55,432675.45,191333.1
+GH,437983119,Ghana,Clothes,Online,L,7/30/10,"Sub-Saharan Africa",8/21/10,7793,109.28,35.84,851619.04,279301.12,572317.92
+GL,320245301,Greenland,Cosmetics,Offline,C,3/31/12,"North America",5/7/12,6556,437.2,263.33,2866283.2,1726391.48,1139891.72
+GP,,,,,,,,,,,,,,
+GN,342181479,Guinea,Snacks,Offline,M,7/18/11,"Sub-Saharan Africa",9/3/11,7959,152.58,97.44,1214384.22,775524.96,438859.26
+GY,,,,,,,,,,,,,,
+HU,646492898,Hungary,Snacks,Offline,H,10/26/16,Europe,11/1/16,470,152.58,97.44,71712.6,45796.8,25915.8
+IS,199347627,Iceland,Snacks,Online,M,7/11/12,Europe,7/22/12,248,152.58,97.44,37839.84,24165.12,13674.72
+IS,621690404,Iceland,"Personal Care",Offline,C,4/19/12,Europe,5/23/12,861,81.73,56.67,70369.53,48792.87,21576.66
+ID,608052766,Indonesia,"Office Supplies",Online,M,11/2/12,Asia,11/8/12,5181,651.21,524.96,3373919.01,2719817.76,654101.25
+ID,830646073,Indonesia,Cosmetics,Offline,H,7/28/14,Asia,8/26/14,5487,437.2,263.33,2398916.4,1444891.71,954024.69
+ID,550639331,Indonesia,Meat,Offline,M,1/12/12,Asia,3/1/12,5269,421.89,364.69,2222938.41,1921551.61,301386.8
+IM,,,,,,,,,,,,,,
+IL,,,,,,,,,,,,,,
+KR,,,,,,,,,,,,,,
+LA,,,,,,,,,,,,,,
+LI,216065728,Liechtenstein,Cereal,Offline,C,4/11/12,Europe,5/1/12,7505,205.7,117.11,1543778.5,878910.55,664867.95
+MO,,,,,,,,,,,,,,
+MG,558212602,Madagascar,Snacks,Offline,H,9/24/15,"Sub-Saharan Africa",9/24/15,6368,152.58,97.44,971629.44,620497.92,351131.52
+MW,873874700,Malawi,Snacks,Offline,C,11/10/13,"Sub-Saharan Africa",11/16/13,7798,152.58,97.44,1189818.84,759837.12,429981.72
+MW,592641866,Malawi,Cosmetics,Offline,L,4/26/13,"Sub-Saharan Africa",5/29/13,4753,437.2,263.33,2078011.6,1251607.49,826404.11
+MW,774633824,Malawi,Meat,Offline,H,5/1/13,"Sub-Saharan Africa",5/22/13,218,421.89,364.69,91972.02,79502.42,12469.6
+MQ,,,,,,,,,,,,,,
+MX,425673711,Mexico,Cereal,Online,M,12/4/11,"North America",12/25/11,5165,205.7,117.11,1062440.5,604873.15,457567.35
+MD,,,,,,,,,,,,,,
+MS,,,,,,,,,,,,,,
+MM,370007789,Myanmar,Household,Offline,C,12/15/16,Asia,12/30/16,2382,668.27,502.54,1591819.14,1197050.28,394768.86
+MM,788672292,Myanmar,Household,Online,L,2/26/15,Asia,3/6/15,4512,668.27,502.54,3015234.24,2267460.48,747773.76
+NP,454156196,Nepal,Household,Online,C,7/29/11,Asia,8/5/11,3765,668.27,502.54,2516036.55,1892063.1,623973.45
+NI,,,,,,,,,,,,,,
+NU,,,,,,,,,,,,,,
+NO,,,,,,,,,,,,,,
+PA,243145310,Panama,Snacks,Online,C,3/25/11,"Central America and the Caribbean",4/17/11,955,152.58,97.44,145713.9,93055.2,52658.7
+PG,,,,,,,,,,,,,,
+QA,392070138,Qatar,Beverages,Online,M,2/24/12,"Middle East and North Africa",3/14/12,1121,47.45,31.79,53191.45,35636.59,17554.86
+QA,499400126,Qatar,"Office Supplies",Offline,M,1/31/11,"Middle East and North Africa",2/21/11,2450,651.21,524.96,1595464.5,1286152,309312.5
+QA,399229276,Qatar,"Personal Care",Online,H,3/15/14,"Middle East and North Africa",4/29/14,9669,81.73,56.67,790247.37,547942.23,242305.14
+BL,,,,,,,,,,,,,,
+SH,,,,,,,,,,,,,,
+ST,,,,,,,,,,,,,,
+SN,462165915,Senegal,Fruits,Online,M,6/14/16,"Sub-Saharan Africa",6/29/16,4020,9.33,6.92,37506.6,27818.4,9688.2
+SN,856661784,Senegal,Cosmetics,Offline,H,5/29/12,"Sub-Saharan Africa",6/22/12,4114,437.2,263.33,1798640.8,1083339.62,715301.18
+ZA,757311475,"South Africa","Baby Food",Offline,C,7/11/17,"Sub-Saharan Africa",8/8/17,4149,255.28,159.42,1059156.72,661433.58,397723.14
+ZA,206795156,"South Africa","Baby Food",Online,C,12/7/14,"Sub-Saharan Africa",12/22/14,4137,255.28,159.42,1056093.36,659520.54,396572.82
+SS,816205489,"South Sudan",Snacks,Online,C,6/7/11,"Sub-Saharan Africa",7/23/11,2197,152.58,97.44,335218.26,214075.68,121142.58
+SS,581294190,"South Sudan",Snacks,Offline,L,12/21/12,"Sub-Saharan Africa",12/28/12,6723,152.58,97.44,1025795.34,655089.12,370706.22
+SR,,,,,,,,,,,,,,
+TZ,,,,,,,,,,,,,,
+TG,,,,,,,,,,,,,,
+TT,,,,,,,,,,,,,,
+TM,221717250,Turkmenistan,Cosmetics,Online,M,12/1/12,Asia,12/6/12,9916,437.2,263.33,4335275.2,2611180.28,1724094.92
+AE,559763991,"United Arab Emirates",Household,Online,L,11/8/11,"Middle East and North Africa",11/13/11,5459,668.27,502.54,3648085.93,2743365.86,904720.07
+VG,,,,,,,,,,,,,,
+EH,,,,,,,,,,,,,,
+ZM,,,,,,,,,,,,,,

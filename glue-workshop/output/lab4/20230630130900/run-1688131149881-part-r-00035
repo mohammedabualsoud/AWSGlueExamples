@@ -1,0 +1,7 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,L,Fruits,"Central America and the Caribbean",7547,11/22/16,12/20/16,LC,119216096
+Online,C,Clothes,Europe,2709,11/14/15,12/22/15,BE,196517360
+Online,M,Beverages,Europe,5755,8/8/16,8/24/16,BE,432062518
+Online,M,Clothes,Europe,1165,12/17/13,1/10/14,IT,278155219
+Online,L,Cosmetics,Europe,9951,10/30/11,12/8/11,IT,314444434
+Online,M,Beverages,Europe,2737,1/18/13,2/19/13,IT,866524589

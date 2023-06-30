@@ -1,0 +1,7 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,L,"Personal Care","Sub-Saharan Africa",610,3/6/17,3/17/17,TG,345062816
+Offline,M,"Baby Food","Sub-Saharan Africa",2458,5/10/12,6/6/12,TG,480239713
+Online,M,"Personal Care","Sub-Saharan Africa",3060,1/4/16,1/19/16,TG,613993108
+Offline,L,Clothes,Asia,3853,7/24/12,8/31/12,BD,186282050
+Online,H,Household,Asia,4622,6/28/13,7/26/13,BD,201389968
+Offline,C,Cereal,Asia,8658,12/22/12,1/4/13,BD,637261378

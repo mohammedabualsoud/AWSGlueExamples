@@ -1,0 +1,7 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,L,"Office Supplies",Asia,4320,9/10/12,10/12/12,MV,706285130
+Online,C,Vegetables,Europe,5007,4/23/13,6/11/13,IE,395969426
+Offline,C,"Personal Care",Europe,7245,8/23/12,9/6/12,IE,244416892
+Offline,L,"Personal Care",Europe,8089,3/4/10,4/6/10,IE,551595056
+Offline,C,Fruits,Europe,1707,4/19/16,5/20/16,IE,290795505
+Online,H,Cereal,"Sub-Saharan Africa",8803,3/25/15,4/13/15,GA,668790423

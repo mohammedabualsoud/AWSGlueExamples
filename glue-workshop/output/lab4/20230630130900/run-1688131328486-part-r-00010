@@ -1,0 +1,8 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,C,Cereal,Europe,6123,8/16/15,10/2/15,PL,666010367
+Offline,M,"Office Supplies",Europe,3633,8/18/12,10/3/12,PL,902246463
+Offline,H,Fruits,Europe,3798,4/15/17,5/28/17,PL,829288661
+Online,C,"Personal Care",Europe,2021,10/12/11,11/20/11,PL,249501931
+Online,M,Fruits,Europe,6117,4/14/11,5/14/11,PL,214101064
+Online,H,Fruits,"Central America and the Caribbean",1034,4/2/14,5/14/14,GD,175087153
+Online,M,"Baby Food","Central America and the Caribbean",8597,2/16/14,3/10/14,GD,479517018

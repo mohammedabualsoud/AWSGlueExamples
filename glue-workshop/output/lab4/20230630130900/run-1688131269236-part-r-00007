@@ -1,0 +1,7 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,M,Clothes,Europe,2345,12/24/14,12/28/14,IE,606556308
+Online,L,"Personal Care",Europe,3608,7/17/14,8/19/14,IE,448478496
+Offline,H,"Personal Care",Europe,2599,4/3/11,5/18/11,IE,476185071
+Online,L,Fruits,Europe,1065,10/7/14,10/28/14,IE,969823110
+Online,C,"Personal Care","Sub-Saharan Africa",7635,3/19/14,5/8/14,GA,606134879
+Online,C,Cereal,"Sub-Saharan Africa",7429,5/14/15,5/17/15,GA,614717519

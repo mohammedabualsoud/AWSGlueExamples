@@ -1,0 +1,8 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,M,"Office Supplies","Sub-Saharan Africa",5314,9/5/10,10/22/10,BF,421889436
+Offline,H,"Office Supplies","Sub-Saharan Africa",4117,8/6/11,8/19/11,BF,583448112
+Offline,L,Clothes,"Sub-Saharan Africa",5598,8/5/12,8/5/12,BF,967303979
+Online,L,Meat,"Sub-Saharan Africa",2003,11/9/13,11/30/13,BF,905282294
+Online,L,Beverages,Asia,301,8/9/14,8/16/14,CN,738746297
+Online,M,"Personal Care",Asia,4705,4/30/17,5/1/17,CN,572636449
+Offline,L,Household,Asia,6098,11/10/12,12/2/12,CN,706291139

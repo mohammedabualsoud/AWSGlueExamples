@@ -1,0 +1,6 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,M,Household,"Central America and the Caribbean",2390,10/27/13,11/13/13,VC,398900544
+Online,H,Cereal,"Central America and the Caribbean",8169,2/16/10,2/17/10,VC,879248988
+Online,C,Beverages,"North America",7553,11/2/11,12/14/11,CA,903949344
+Offline,C,Snacks,"Middle East and North Africa",8693,3/6/13,3/29/13,TR,422373950
+Online,C,Fruits,"Middle East and North Africa",6484,11/22/12,12/14/12,SA,699601495

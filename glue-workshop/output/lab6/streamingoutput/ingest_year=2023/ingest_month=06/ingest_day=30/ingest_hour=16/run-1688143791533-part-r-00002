@@ -1,0 +1,90 @@
+Code,uuid,Country,"Item Type","Sales Channel","Order Priority","Order Date",Region,"Ship Date","Units Sold","Unit Price","Unit Cost","Total Revenue","Total Cost","Total Profit"
+AS,,,,,,,,,,,,,,
+AI,,,,,,,,,,,,,,
+AQ,,,,,,,,,,,,,,
+AG,,,,,,,,,,,,,,
+AZ,,,,,,,,,,,,,,
+BH,,,,,,,,,,,,,,
+BJ,616521680,Benin,Vegetables,Offline,M,1/11/13,"Sub-Saharan Africa",2/22/13,1320,154.06,90.93,203359.2,120027.6,83331.6
+BJ,537095677,Benin,Household,Offline,H,11/28/11,"Sub-Saharan Africa",1/2/12,7401,668.27,502.54,4945866.27,3719298.54,1226567.73
+BJ,156861007,Benin,Cereal,Offline,M,11/30/10,"Sub-Saharan Africa",1/15/11,7513,205.7,117.11,1545424.1,879847.43,665576.67
+BJ,816863381,Benin,"Baby Food",Online,M,5/15/14,"Sub-Saharan Africa",6/30/14,6882,255.28,159.42,1756836.96,1097128.44,659708.52
+BJ,580783069,Benin,Cosmetics,Online,L,11/27/11,"Sub-Saharan Africa",1/12/12,5471,437.2,263.33,2391921.2,1440678.43,951242.77
+BT,631047666,Bhutan,Meat,Offline,M,6/8/17,Asia,7/3/17,9882,421.89,364.69,4169116.98,3603866.58,565250.4
+IO,,,,,,,,,,,,,,
+BG,495325744,Bulgaria,Clothes,Offline,H,12/6/15,Europe,1/10/16,6750,109.28,35.84,737640,241920,495720
+BG,342011964,Bulgaria,"Office Supplies",Online,H,7/16/15,Europe,8/20/15,7795,651.21,524.96,5076181.95,4092063.2,984118.75
+BI,356345260,Burundi,Snacks,Online,H,6/25/12,"Sub-Saharan Africa",7/31/12,9336,152.58,97.44,1424486.88,909699.84,514787.04
+BI,594342601,Burundi,Snacks,Online,C,10/16/16,"Sub-Saharan Africa",10/16/16,8038,152.58,97.44,1226438.04,783222.72,443215.32
+BI,754477775,Burundi,"Baby Food",Online,L,1/14/11,"Sub-Saharan Africa",2/23/11,5595,255.28,159.42,1428291.6,891954.9,536336.7
+CF,414522159,"Central African Republic",Meat,Online,M,9/21/13,"Sub-Saharan Africa",11/3/13,5173,421.89,364.69,2182436.97,1886541.37,295895.6
+CU,727811896,Cuba,Meat,Online,L,7/22/11,"Central America and the Caribbean",8/8/11,4569,421.89,364.69,1927615.41,1666268.61,261346.8
+DK,,,,,,,,,,,,,,
+DJ,183943164,Djibouti,Cosmetics,Offline,L,5/7/15,"Sub-Saharan Africa",5/30/15,1725,437.2,263.33,754170,454244.25,299925.75
+DM,514055716,Dominica,Cosmetics,Online,M,8/23/13,"Central America and the Caribbean",9/6/13,9365,437.2,263.33,4094378,2466085.45,1628292.55
+DM,852561652,Dominica,Beverages,Online,C,6/19/15,"Central America and the Caribbean",8/2/15,794,47.45,31.79,37675.3,25241.26,12434.04
+DM,828632056,Dominica,Cosmetics,Offline,H,4/21/13,"Central America and the Caribbean",5/21/13,9494,437.2,263.33,4150776.8,2500055.02,1650721.78
+DM,797444617,Dominica,Vegetables,Offline,M,2/11/16,"Central America and the Caribbean",3/5/16,438,154.06,90.93,67478.28,39827.34,27650.94
+DM,793626010,Dominica,"Personal Care",Offline,H,1/3/15,"Central America and the Caribbean",2/13/15,427,81.73,56.67,34898.71,24198.09,10700.62
+ET,721496903,Ethiopia,Fruits,Offline,M,7/23/17,"Sub-Saharan Africa",8/30/17,5822,9.33,6.92,54319.26,40288.24,14031.02
+FO,,,,,,,,,,,,,,
+FR,,,,,,,,,,,,,,
+PF,,,,,,,,,,,,,,
+TF,,,,,,,,,,,,,,
+GM,,,,,,,,,,,,,,
+DE,,,,,,,,,,,,,,
+JO,657161653,Jordan,Meat,Online,H,8/25/13,"Middle East and North Africa",10/6/13,7591,421.89,364.69,3202566.99,2768361.79,434205.2
+KE,,,,,,,,,,,,,,
+KI,513884055,Kiribati,Snacks,Offline,L,5/2/14,"Australia and Oceania",5/25/14,8566,152.58,97.44,1307000.28,834671.04,472329.24
+KW,815691363,Kuwait,Meat,Online,C,4/13/10,"Middle East and North Africa",4/27/10,56,421.89,364.69,23625.84,20422.64,3203.2
+KW,105871140,Kuwait,Meat,Offline,M,10/27/16,"Middle East and North Africa",12/3/16,8478,421.89,364.69,3576783.42,3091841.82,484941.6
+KG,551615655,Kyrgyzstan,"Personal Care",Online,H,2/24/16,Asia,3/23/16,4185,81.73,56.67,342040.05,237163.95,104876.1
+KG,500867831,Kyrgyzstan,"Baby Food",Offline,M,8/24/14,Asia,9/2/14,6777,255.28,159.42,1730032.56,1080389.34,649643.22
+KG,662623918,Kyrgyzstan,Beverages,Offline,L,8/29/16,Asia,9/8/16,3997,47.45,31.79,189657.65,127064.63,62593.02
+LR,106386554,Liberia,Beverages,Offline,H,12/3/16,"Sub-Saharan Africa",12/8/16,1000,47.45,31.79,47450,31790,15660
+LY,875276315,Libya,Meat,Offline,C,8/9/15,"Middle East and North Africa",8/11/15,2567,421.89,364.69,1082991.63,936159.23,146832.4
+LY,511869180,Libya,"Baby Food",Offline,H,4/15/16,"Middle East and North Africa",5/18/16,2320,255.28,159.42,592249.6,369854.4,222395.2
+LY,654937779,Libya,Household,Offline,C,5/7/16,"Middle East and North Africa",6/8/16,9498,668.27,502.54,6347228.46,4773124.92,1574103.54
+MV,249372756,Maldives,"Office Supplies",Online,C,10/20/15,Asia,11/14/15,3795,651.21,524.96,2471341.95,1992223.2,479118.75
+MV,567923486,Maldives,Meat,Online,L,2/11/11,Asia,3/5/11,35,421.89,364.69,14766.15,12764.15,2002
+MV,853821647,Maldives,Meat,Offline,C,2/25/11,Asia,4/16/11,3654,421.89,364.69,1541586.06,1332577.26,209008.8
+MT,712680375,Malta,Beverages,Offline,M,2/21/12,Europe,3/4/12,6815,47.45,31.79,323371.75,216648.85,106722.9
+MT,949747741,Malta,"Office Supplies",Online,L,7/11/12,Europe,8/16/12,317,651.21,524.96,206433.57,166412.32,40021.25
+MU,,,,,,,,,,,,,,
+YT,,,,,,,,,,,,,,
+NA,941044509,Namibia,Vegetables,Offline,C,6/19/13,"Sub-Saharan Africa",7/22/13,4837,154.06,90.93,745188.22,439828.41,305359.81
+NR,,,,,,,,,,,,,,
+NC,,,,,,,,,,,,,,
+NZ,,,,,,,,,,,,,,
+NE,,,,,,,,,,,,,,
+NF,,,,,,,,,,,,,,
+MP,,,,,,,,,,,,,,
+OM,,,,,,,,,,,,,,
+PK,305963075,Pakistan,"Office Supplies",Online,L,9/14/16,"Middle East and North Africa",10/11/16,128,651.21,524.96,83354.88,67194.88,16160
+PK,297042691,Pakistan,Cosmetics,Offline,L,12/3/14,"Middle East and North Africa",1/8/15,388,437.2,263.33,169633.6,102172.04,67461.56
+PS,,,,,,,,,,,,,,
+PY,,,,,,,,,,,,,,
+PE,,,,,,,,,,,,,,
+PL,,,,,,,,,,,,,,
+RU,,,,,,,,,,,,,,
+RW,314613950,Rwanda,Household,Online,C,5/28/15,"Sub-Saharan Africa",5/29/15,114,668.27,502.54,76182.78,57289.56,18893.22
+RW,465039098,Rwanda,Beverages,Offline,H,1/16/11,"Sub-Saharan Africa",1/26/11,4258,47.45,31.79,202042.1,135361.82,66680.28
+RW,274069678,Rwanda,Fruits,Online,L,4/3/15,"Sub-Saharan Africa",5/22/15,2163,9.33,6.92,20180.79,14967.96,5212.83
+RE,,,,,,,,,,,,,,
+MF,,,,,,,,,,,,,,
+WS,,,,,,,,,,,,,,
+SM,,,,,,,,,,,,,,
+SL,443114507,"Sierra Leone",Vegetables,Offline,H,6/23/17,"Sub-Saharan Africa",7/29/17,6284,154.06,90.93,968113.04,571404.12,396708.92
+SK,118501555,Slovakia,Vegetables,Online,C,7/24/14,Europe,9/4/14,6098,154.06,90.93,939457.88,554491.14,384966.74
+SK,813452899,Slovakia,Snacks,Offline,C,9/29/14,Europe,11/18/14,7644,152.58,97.44,1166321.52,744831.36,421490.16
+SI,194363439,Slovenia,Cosmetics,Offline,M,3/31/17,Europe,5/2/17,5316,437.2,263.33,2324155.2,1399862.28,924292.92
+SB,,,,,,,,,,,,,,
+GS,,,,,,,,,,,,,,
+LK,,,,,,,,,,,,,,
+TL,,,,,,,,,,,,,,
+TO,418315446,Tonga,"Baby Food",Online,L,3/20/15,"Australia and Oceania",4/17/15,7691,255.28,159.42,1963358.48,1226099.22,737259.26
+TN,,,,,,,,,,,,,,
+TC,,,,,,,,,,,,,,
+UG,943240916,Uganda,Cosmetics,Online,H,6/3/15,"Sub-Saharan Africa",6/19/15,4803,437.2,263.33,2099871.6,1264773.99,835097.61
+UZ,777927577,Uzbekistan,Meat,Offline,L,11/29/11,Asia,12/29/11,4912,421.89,364.69,2072323.68,1791357.28,280966.4
+YE,,,,,,,,,,,,,,

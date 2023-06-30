@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,H,Household,"Central America and the Caribbean",5858,2/4/10,3/5/10,BZ,129280602
+Online,C,"Office Supplies","Central America and the Caribbean",428,3/7/16,4/21/16,BZ,197827565
+Offline,C,Beverages,"Australia and Oceania",3688,5/11/15,5/30/15,SB,871056020

@@ -1,0 +1,9 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,C,Cereal,"Australia and Oceania",1078,12/20/15,1/28/16,MH,550625169
+Online,H,Household,"Australia and Oceania",5028,3/5/10,3/16/10,MH,690607726
+Online,C,Cereal,"Sub-Saharan Africa",1502,11/2/10,12/21/10,UG,838066995
+Online,H,"Office Supplies","Sub-Saharan Africa",9343,11/12/15,11/29/15,UG,336002099
+Online,C,Cosmetics,"Sub-Saharan Africa",5287,11/5/11,11/5/11,UG,128163516
+Offline,C,Beverages,"Sub-Saharan Africa",9785,8/18/11,9/11/11,UG,994622600
+Offline,H,Snacks,Europe,7103,11/7/14,11/14/14,AL,919762790
+Offline,C,Clothes,Europe,1626,12/14/10,1/14/11,AL,494869124

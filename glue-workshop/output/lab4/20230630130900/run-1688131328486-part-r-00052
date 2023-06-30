@@ -1,0 +1,3 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,L,"Personal Care","Australia and Oceania",1854,9/6/12,10/22/12,PG,667753159
+Offline,M,"Baby Food","Australia and Oceania",904,7/8/10,8/11/10,PG,862260520

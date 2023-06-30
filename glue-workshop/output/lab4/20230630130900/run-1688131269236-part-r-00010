@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,H,Fruits,Europe,4033,8/7/16,8/8/16,PL,926950252
+Offline,C,"Personal Care","Central America and the Caribbean",7670,1/27/13,2/1/13,GD,943588531
+Offline,C,Beverages,"Central America and the Caribbean",2444,10/30/12,11/13/12,GD,434011304

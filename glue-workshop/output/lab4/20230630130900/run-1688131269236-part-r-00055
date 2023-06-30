@@ -1,0 +1,5 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,L,Cereal,Asia,5806,10/21/15,10/21/15,TH,321831023
+Offline,C,Clothes,Asia,8072,2/15/11,3/28/11,IN,658447396
+Online,L,Household,Asia,7864,2/1/12,3/13/12,IN,712717711
+Offline,L,Beverages,Asia,9778,12/2/12,12/7/12,IN,520917022

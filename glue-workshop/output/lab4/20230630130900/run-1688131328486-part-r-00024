@@ -1,0 +1,6 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,C,"Office Supplies",Europe,3474,2/18/10,4/5/10,BY,895386016
+Offline,H,Meat,Europe,7099,3/21/13,4/4/13,BY,140808093
+Offline,L,"Office Supplies",Asia,8684,6/1/13,7/4/13,KZ,799432456
+Offline,L,Vegetables,"Central America and the Caribbean",9859,5/5/11,6/18/11,PA,613036096
+Online,H,Household,"Central America and the Caribbean",2213,4/27/15,5/8/15,PA,225543582

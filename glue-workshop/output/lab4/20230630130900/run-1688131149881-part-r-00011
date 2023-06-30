@@ -1,0 +1,10 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,C,Fruits,Europe,3539,10/3/10,10/31/10,UA,164687478
+Offline,M,Cereal,Europe,3457,7/4/13,7/8/13,UA,343551766
+Online,H,Clothes,Europe,9436,11/17/16,12/4/16,UA,978637492
+Online,C,Cereal,"Middle East and North Africa",4875,7/14/14,8/20/14,EG,887517058
+Online,M,Cereal,"Middle East and North Africa",1989,6/5/10,6/22/10,EG,104260957
+Online,C,"Personal Care","Middle East and North Africa",1244,6/28/14,8/16/14,EG,335873353
+Online,C,Snacks,"Middle East and North Africa",6835,11/24/13,12/11/13,EG,312000834
+Offline,H,Cosmetics,"Middle East and North Africa",4532,6/30/11,7/5/11,EG,175301730
+Offline,C,Fruits,"Middle East and North Africa",2272,1/13/16,2/27/16,EG,672519338

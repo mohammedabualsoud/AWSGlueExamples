@@ -1,0 +1,9 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,M,Fruits,Europe,3162,9/27/16,10/24/16,HR,224296462
+Online,L,"Office Supplies","Sub-Saharan Africa",5806,11/20/13,11/21/13,NA,210889708
+Offline,M,Fruits,"Sub-Saharan Africa",1006,7/8/16,7/25/16,NA,519434297
+Offline,C,Cereal,"Sub-Saharan Africa",853,7/28/10,8/1/10,NA,265752255
+Online,H,Vegetables,"Sub-Saharan Africa",941,1/16/16,2/6/16,NA,515953433
+Offline,H,Vegetables,"Sub-Saharan Africa",1246,3/9/11,4/23/11,MW,188435971
+Offline,L,Snacks,"Sub-Saharan Africa",2356,8/31/13,10/7/13,MW,369061505
+Online,C,Meat,Asia,5949,1/27/13,2/25/13,TM,571694457

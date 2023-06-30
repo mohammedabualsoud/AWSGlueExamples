@@ -1,0 +1,7 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,M,Snacks,"Australia and Oceania",5828,10/7/15,10/23/15,PG,131612193
+Offline,M,Fruits,"Australia and Oceania",9516,9/26/16,10/24/16,PG,895744359
+Offline,L,Cereal,"Australia and Oceania",850,6/4/17,7/21/17,PG,270212876
+Offline,L,Cosmetics,"Australia and Oceania",4882,10/5/12,10/24/12,PG,208487308
+Offline,M,Beverages,"Middle East and North Africa",3575,7/17/16,8/20/16,SO,239166629
+Offline,H,Beverages,"Middle East and North Africa",7897,11/10/11,11/13/11,SO,867150294

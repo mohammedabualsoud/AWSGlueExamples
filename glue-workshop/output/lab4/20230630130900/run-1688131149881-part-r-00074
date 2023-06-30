@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,L,Cosmetics,"Sub-Saharan Africa",7458,4/1/10,4/8/10,AO,464813363
+Offline,H,"Personal Care","Sub-Saharan Africa",1030,2/26/14,3/15/14,AO,564885509
+Offline,M,Beverages,"Sub-Saharan Africa",4655,7/20/13,8/1/13,AO,687463748

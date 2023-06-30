@@ -1,0 +1,6 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,L,Household,"Middle East and North Africa",3565,2/23/11,3/14/11,DZ,571585023
+Offline,H,Snacks,"Middle East and North Africa",4935,11/5/11,11/25/11,DZ,743290174
+Offline,L,Clothes,"Australia and Oceania",2170,8/21/11,9/14/11,NZ,917008912
+Online,M,Household,Europe,2800,2/8/11,3/18/11,MC,595473849
+Offline,L,Meat,Europe,7345,3/8/17,4/8/17,MC,132529723

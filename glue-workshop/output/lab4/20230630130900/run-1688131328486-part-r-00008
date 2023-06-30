@@ -1,0 +1,6 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,H,"Office Supplies","Sub-Saharan Africa",2486,4/25/15,6/8/15,KM,427489459
+Offline,L,Meat,"Sub-Saharan Africa",1245,12/24/12,1/26/13,KM,877975261
+Online,C,"Personal Care","Sub-Saharan Africa",7283,6/22/17,7/15/17,TD,779861772
+Offline,L,Clothes,"Sub-Saharan Africa",1757,7/23/13,7/24/13,TD,191985929
+Offline,M,"Office Supplies","Sub-Saharan Africa",7914,4/25/15,6/14/15,TD,712244784

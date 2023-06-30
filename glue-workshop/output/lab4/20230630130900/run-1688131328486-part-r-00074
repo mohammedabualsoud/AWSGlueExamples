@@ -1,0 +1,3 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,H,Household,"Sub-Saharan Africa",9193,10/20/13,10/29/13,AO,125912606
+Offline,L,Meat,"Sub-Saharan Africa",90,10/14/16,10/26/16,AO,786055314

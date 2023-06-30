@@ -1,0 +1,10 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,C,Household,Europe,9373,4/11/15,5/17/15,HR,459446799
+Offline,L,Snacks,Europe,7649,10/29/12,11/15/12,HR,802166163
+Offline,C,Vegetables,Europe,4757,8/29/10,9/3/10,HR,774615371
+Offline,L,Meat,"Sub-Saharan Africa",2470,11/18/11,11/19/11,NA,493249928
+Online,C,Snacks,"Sub-Saharan Africa",7772,4/24/11,5/17/11,NA,679668176
+Offline,C,Snacks,"Sub-Saharan Africa",7798,11/10/13,11/16/13,MW,873874700
+Offline,L,Cosmetics,"Sub-Saharan Africa",4753,4/26/13,5/29/13,MW,592641866
+Online,C,"Personal Care",Asia,1562,4/13/17,4/27/17,TM,840229928
+Online,M,Cosmetics,Asia,9916,12/1/12,12/6/12,TM,221717250

@@ -1,0 +1,15 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,H,Cereal,"Australia and Oceania",2948,2/14/17,3/13/17,AU,382411611
+Online,C,Cereal,"Australia and Oceania",7883,12/2/10,1/14/11,AU,840352666
+Online,M,Snacks,"Australia and Oceania",2653,3/21/10,4/2/10,AU,756022298
+Offline,L,Meat,Europe,5070,6/20/16,7/15/16,NL,128331744
+Offline,H,"Baby Food",Europe,8091,9/22/10,9/24/10,NL,470458877
+Offline,M,Vegetables,"Sub-Saharan Africa",1320,1/11/13,2/22/13,BJ,616521680
+Offline,H,Household,"Sub-Saharan Africa",7401,11/28/11,1/2/12,BJ,537095677
+Offline,M,Cereal,"Sub-Saharan Africa",7513,11/30/10,1/15/11,BJ,156861007
+Online,M,"Baby Food","Sub-Saharan Africa",6882,5/15/14,6/30/14,BJ,816863381
+Online,L,Cosmetics,"Sub-Saharan Africa",5471,11/27/11,1/12/12,BJ,580783069
+Offline,H,Vegetables,"Middle East and North Africa",3594,7/23/10,9/10/10,IL,661811530
+Online,C,"Office Supplies","Middle East and North Africa",1351,2/27/13,4/10/13,IL,669069373
+Offline,H,Snacks,"Middle East and North Africa",5565,3/15/16,3/29/16,IL,659655463
+Offline,L,Household,"Middle East and North Africa",9378,3/16/11,5/5/11,IL,694069278

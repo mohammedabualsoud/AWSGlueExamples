@@ -1,0 +1,3 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,L,"Office Supplies",Europe,4051,1/24/14,3/11/14,DE,796071326
+Online,C,Vegetables,"Sub-Saharan Africa",6873,2/29/16,4/9/16,CF,440311706

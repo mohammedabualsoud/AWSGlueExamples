@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,L,Beverages,"Sub-Saharan Africa",3022,8/10/14,8/20/14,KM,580605828
+Online,C,Clothes,"Sub-Saharan Africa",3979,5/2/11,6/16/11,KM,461861646
+Online,C,"Personal Care","Sub-Saharan Africa",8814,5/22/17,6/25/17,KM,688626754

@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,H,"Personal Care",Asia,4185,2/24/16,3/23/16,KG,551615655
+Offline,M,"Baby Food",Asia,6777,8/24/14,9/2/14,KG,500867831
+Offline,L,Beverages,Asia,3997,8/29/16,9/8/16,KG,662623918

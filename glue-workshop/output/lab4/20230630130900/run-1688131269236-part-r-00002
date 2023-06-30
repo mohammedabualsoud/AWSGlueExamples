@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,L,"Baby Food",Asia,3199,9/4/12,9/11/12,KG,256500995
+Offline,C,Clothes,Asia,4279,10/23/10,11/3/10,KG,353726136
+Online,M,"Baby Food",Asia,7988,12/4/13,12/11/13,KG,559367024

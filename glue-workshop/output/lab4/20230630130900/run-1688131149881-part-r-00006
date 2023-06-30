@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,C,Snacks,Europe,9427,8/25/14,10/13/14,CY,459109055
+Offline,H,Cosmetics,"Sub-Saharan Africa",618,8/30/10,10/7/10,ER,527171504
+Offline,H,"Personal Care","Sub-Saharan Africa",8641,2/11/17,3/14/17,ER,669803655

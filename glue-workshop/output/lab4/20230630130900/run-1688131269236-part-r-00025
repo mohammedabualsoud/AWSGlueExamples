@@ -1,0 +1,3 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,H,Cosmetics,"Sub-Saharan Africa",4114,5/29/12,6/22/12,SN,856661784
+Online,C,Household,"Sub-Saharan Africa",7590,3/8/15,3/30/15,SN,892696511

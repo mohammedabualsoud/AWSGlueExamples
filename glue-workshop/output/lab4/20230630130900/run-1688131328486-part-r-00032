@@ -1,0 +1,7 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,C,Clothes,"Australia and Oceania",9217,11/24/12,12/30/12,AU,807206571
+Online,M,"Baby Food","Australia and Oceania",5161,11/11/13,11/29/13,AU,314597213
+Online,H,Clothes,"Sub-Saharan Africa",1274,7/2/14,7/29/14,BJ,100237214
+Offline,C,Cosmetics,"Middle East and North Africa",1597,3/8/11,4/13/11,IL,440091121
+Online,H,"Personal Care","Australia and Oceania",7772,5/22/12,6/10/12,VU,573322665
+Offline,M,Beverages,"Australia and Oceania",110,11/28/15,1/4/16,VU,345331466

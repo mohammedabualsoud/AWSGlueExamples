@@ -1,0 +1,7 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,M,"Personal Care",Europe,6868,6/10/11,7/23/11,ME,146214139
+Online,M,Meat,Europe,6921,7/2/14,7/31/14,ME,168720233
+Online,H,Fruits,Europe,5652,5/30/10,6/29/10,ME,820576417
+Offline,H,Meat,Asia,7430,10/7/10,11/11/10,KH,741676557
+Offline,H,Beverages,Asia,10,1/9/17,1/17/17,KH,379495513
+Online,M,Beverages,Asia,7950,10/10/14,10/12/14,KH,723835790

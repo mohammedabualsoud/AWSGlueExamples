@@ -1,0 +1,7 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,M,Meat,Asia,5269,1/12/12,3/1/12,ID,550639331
+Offline,L,"Personal Care",Asia,2212,3/10/10,4/17/10,ID,311275565
+Offline,H,"Baby Food",Asia,6585,12/12/15,1/19/16,ID,107453000
+Offline,L,Cereal,Asia,1903,12/15/11,1/18/12,ID,157213771
+Online,M,"Baby Food","Middle East and North Africa",6918,6/10/16,6/24/16,JO,990861928
+Online,H,"Baby Food","Middle East and North Africa",1050,10/13/10,11/19/10,JO,283156144

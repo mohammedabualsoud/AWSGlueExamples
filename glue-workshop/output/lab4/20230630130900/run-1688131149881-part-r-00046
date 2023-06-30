@@ -1,0 +1,3 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,L,Fruits,"North America",9131,7/30/11,9/12/11,GL,121384179
+Offline,H,"Personal Care","North America",4277,2/17/16,3/10/16,GL,122651898

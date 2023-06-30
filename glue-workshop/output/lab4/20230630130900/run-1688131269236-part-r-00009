@@ -1,0 +1,6 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,C,Vegetables,"Sub-Saharan Africa",1788,7/25/16,8/19/16,BW,860945594
+Offline,H,Cosmetics,"Sub-Saharan Africa",2976,2/17/17,3/16/17,BW,980339086
+Online,L,Vegetables,Europe,5404,11/2/15,11/17/15,LI,496030843
+Offline,L,"Baby Food",Europe,3709,11/8/13,11/16/13,LI,944994437
+Offline,C,Cereal,"Sub-Saharan Africa",4402,10/13/14,10/30/14,ST,976829469

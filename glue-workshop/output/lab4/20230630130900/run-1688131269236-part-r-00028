@@ -1,0 +1,5 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,C,"Office Supplies",Europe,629,12/21/13,2/1/14,SM,973572623
+Online,H,Vegetables,Europe,7780,8/1/12,8/30/12,SE,660507762
+Offline,C,"Office Supplies",Europe,6570,2/1/16,3/8/16,SE,841091668
+Online,H,Beverages,Europe,5679,6/15/12,6/15/12,SE,917629039

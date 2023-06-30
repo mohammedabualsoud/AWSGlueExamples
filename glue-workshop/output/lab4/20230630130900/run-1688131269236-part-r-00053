@@ -1,0 +1,8 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Online,L,Household,Asia,4512,2/26/15,3/6/15,MM,788672292
+Online,C,"Office Supplies",Asia,9283,1/22/12,2/22/12,MM,373883473
+Online,C,Cereal,Asia,6403,8/1/13,8/3/13,MM,634922063
+Offline,L,Cereal,Europe,4403,6/16/12,6/29/12,RO,279281318
+Offline,C,Vegetables,Europe,6653,5/22/14,7/2/14,RO,678245103
+Offline,L,Snacks,"Australia and Oceania",14,8/26/10,8/30/10,NR,627770221
+Online,L,"Personal Care","Australia and Oceania",5066,5/19/10,7/8/10,NR,542156684

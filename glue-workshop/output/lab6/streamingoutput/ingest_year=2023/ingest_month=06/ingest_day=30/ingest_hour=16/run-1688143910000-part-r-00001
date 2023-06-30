@@ -1,0 +1,77 @@
+Code,uuid,Country,"Item Type","Sales Channel","Order Priority","Order Date",Region,"Ship Date","Units Sold","Unit Price","Unit Cost","Total Revenue","Total Cost","Total Profit"
+AF,162812507,Afghanistan,"Baby Food",Offline,C,1/23/10,"Middle East and North Africa",3/9/10,8694,255.28,159.42,2219404.32,1385997.48,833406.84
+AO,878869616,Angola,Snacks,Online,M,7/8/10,"Sub-Saharan Africa",8/6/10,5905,152.58,97.44,900984.9,575383.2,325601.7
+AM,766661870,Armenia,Beverages,Offline,L,7/28/10,Europe,9/4/10,1139,47.45,31.79,54045.55,36208.81,17836.74
+AW,,,,,,,,,,,,,,
+BE,453581559,Belgium,Vegetables,Online,C,3/3/14,Europe,3/31/14,3718,154.06,90.93,572795.08,338077.74,234717.34
+BE,335471236,Belgium,"Office Supplies",Online,H,3/4/13,Europe,3/6/13,2249,651.21,524.96,1464571.29,1180635.04,283936.25
+BZ,368841779,Belize,"Office Supplies",Online,H,1/12/13,"Central America and the Caribbean",2/5/13,7334,651.21,524.96,4775974.14,3850056.64,925917.5
+BZ,318291366,Belize,Household,Online,C,8/18/12,"Central America and the Caribbean",9/27/12,8343,668.27,502.54,5575376.61,4192691.22,1382685.39
+BZ,872387254,Belize,"Baby Food",Offline,H,4/1/16,"Central America and the Caribbean",4/16/16,7630,255.28,159.42,1947786.4,1216374.6,731411.8
+BZ,642141282,Belize,Vegetables,Offline,C,4/16/17,"Central America and the Caribbean",5/16/17,2730,154.06,90.93,420583.8,248238.9,172344.9
+BZ,582670485,Belize,Vegetables,Online,L,2/7/15,"Central America and the Caribbean",2/12/15,4000,154.06,90.93,616240,363720,252520
+BM,,,,,,,,,,,,,,
+BW,,,,,,,,,,,,,,
+BR,,,,,,,,,,,,,,
+BN,,,,,,,,,,,,,,
+KH,963833415,Cambodia,Beverages,Offline,H,4/27/11,Asia,4/29/11,8581,47.45,31.79,407168.45,272789.99,134378.46
+TD,,,,,,,,,,,,,,
+CX,,,,,,,,,,,,,,
+CC,,,,,,,,,,,,,,
+CR,,,,,,,,,,,,,,
+HR,,,,,,,,,,,,,,
+CW,,,,,,,,,,,,,,
+CY,488041722,Cyprus,Household,Online,L,12/7/16,Europe,12/9/16,1246,668.27,502.54,832664.42,626164.84,206499.58
+CY,191898381,Cyprus,Cereal,Online,H,7/24/16,Europe,8/16/16,5850,205.7,117.11,1203345,685093.5,518251.5
+EG,415257728,Egypt,Clothes,Online,M,8/19/16,"Middle East and North Africa",9/8/16,2844,109.28,35.84,310792.32,101928.96,208863.36
+SV,415225112,"El Salvador",Cosmetics,Online,L,4/30/10,"Central America and the Caribbean",6/14/10,3193,437.2,263.33,1395979.6,840812.69,555166.91
+ER,,,,,,,,,,,,,,
+FK,,,,,,,,,,,,,,
+FI,,,,,,,,,,,,,,
+GI,,,,,,,,,,,,,,
+GG,,,,,,,,,,,,,,
+GW,235261762,Guinea-Bissau,Household,Online,M,5/23/17,"Sub-Saharan Africa",6/1/17,8038,668.27,502.54,5371554.26,4039416.52,1332137.74
+GW,954241406,Guinea-Bissau,"Office Supplies",Online,H,9/17/12,"Sub-Saharan Africa",11/5/12,92,651.21,524.96,59911.32,48296.32,11615
+HT,498458993,Haiti,Cereal,Online,M,3/7/11,"Central America and the Caribbean",4/17/11,3948,205.7,117.11,812103.6,462350.28,349753.32
+HM,,,,,,,,,,,,,,
+VA,,,,,,,,,,,,,,
+HK,,,,,,,,,,,,,,
+IQ,742941701,Iraq,"Personal Care",Offline,M,5/31/17,"Middle East and North Africa",7/10/17,1814,81.73,56.67,148258.22,102799.38,45458.84
+IQ,732457482,Iraq,"Personal Care",Offline,C,12/31/16,"Middle East and North Africa",1/17/17,9301,81.73,56.67,760170.73,527087.67,233083.06
+IT,,,,,,,,,,,,,,
+JP,,,,,,,,,,,,,,
+JE,,,,,,,,,,,,,,
+KZ,,,,,,,,,,,,,,
+KP,,,,,,,,,,,,,,
+LS,460281074,Lesotho,Vegetables,Offline,L,3/1/11,"Sub-Saharan Africa",3/31/11,6253,154.06,90.93,963337.18,568585.29,394751.89
+LU,,,,,,,,,,,,,,
+ML,,,,,,,,,,,,,,
+MH,690607726,"Marshall Islands",Household,Online,H,3/5/10,"Australia and Oceania",3/16/10,5028,668.27,502.54,3360061.56,2526771.12,833290.44
+FM,,,,,,,,,,,,,,
+NL,,,,,,,,,,,,,,
+PW,572232186,Palau,Meat,Online,L,9/15/12,"Australia and Oceania",10/11/12,5075,421.89,364.69,2141091.75,1850801.75,290290
+PW,681619536,Palau,"Baby Food",Offline,C,1/8/13,"Australia and Oceania",2/23/13,5223,255.28,159.42,1333327.44,832650.66,500676.78
+PH,,,,,,,,,,,,,,
+RO,710206735,Romania,Vegetables,Offline,H,5/21/13,Europe,6/30/13,4810,154.06,90.93,741028.6,437373.3,303655.3
+RO,279281318,Romania,Cereal,Offline,L,6/16/12,Europe,6/29/12,4403,205.7,117.11,905697.1,515635.33,390061.77
+LC,252236926,"Saint Lucia",Cereal,Online,L,2/22/10,"Central America and the Caribbean",3/3/10,1367,205.7,117.11,281191.9,160089.37,121102.53
+PM,,,,,,,,,,,,,,
+VC,398900544,"Saint Vincent and the Grenadines",Household,Offline,M,10/27/13,"Central America and the Caribbean",11/13/13,2390,668.27,502.54,1597165.3,1201070.6,396094.7
+SA,,,,,,,,,,,,,,
+SC,,,,,,,,,,,,,,
+SX,,,,,,,,,,,,,,
+SO,454263055,Somalia,Fruits,Online,H,8/5/15,"Middle East and North Africa",9/18/15,5388,9.33,6.92,50270.04,37284.96,12985.08
+ES,413236844,Spain,Household,Offline,M,11/6/10,Europe,12/15/10,4820,668.27,502.54,3221061.4,2422242.8,798818.6
+ES,621470248,Spain,Clothes,Online,L,1/25/17,Europe,2/19/17,5712,109.28,35.84,624207.36,204718.08,419489.28
+ES,337587821,Spain,Vegetables,Offline,L,11/7/11,Europe,12/7/11,8593,154.06,90.93,1323837.58,781361.49,542476.09
+SZ,473698985,Swaziland,"Baby Food",Online,L,7/26/17,"Sub-Saharan Africa",9/9/17,6911,255.28,159.42,1764240.08,1101751.62,662488.46
+SE,,,,,,,,,,,,,,
+TW,,,,,,,,,,,,,,
+TH,829195106,Thailand,Vegetables,Online,L,7/21/12,Asia,8/14/12,6113,154.06,90.93,941768.78,555855.09,385913.69
+TK,,,,,,,,,,,,,,
+TR,169720590,Turkey,Household,Offline,M,9/16/11,"Middle East and North Africa",10/5/11,2949,668.27,502.54,1970728.23,1481990.46,488737.77
+TV,657694661,Tuvalu,"Office Supplies",Online,M,1/27/12,"Australia and Oceania",3/2/12,5321,651.21,524.96,3465088.41,2793312.16,671776.25
+TV,305701720,Tuvalu,Meat,Offline,M,2/3/17,"Australia and Oceania",3/4/17,2787,421.89,364.69,1175807.43,1016391.03,159416.4
+VE,,,,,,,,,,,,,,
+VI,,,,,,,,,,,,,,
+AX,,,,,,,,,,,,,,

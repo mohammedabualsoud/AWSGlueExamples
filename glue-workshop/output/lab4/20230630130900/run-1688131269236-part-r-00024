@@ -1,0 +1,4 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,C,Meat,Europe,8386,9/2/16,10/15/16,BY,491377532
+Online,L,Snacks,Europe,5381,6/3/11,7/12/11,BY,912592923
+Online,C,Snacks,"Central America and the Caribbean",955,3/25/11,4/17/11,PA,243145310

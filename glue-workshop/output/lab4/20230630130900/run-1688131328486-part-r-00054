@@ -1,0 +1,7 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,M,Snacks,"Central America and the Caribbean",4877,12/18/10,1/12/11,BB,286075246
+Offline,C,Snacks,"Central America and the Caribbean",7652,6/23/13,7/26/13,BB,264795243
+Online,H,Cereal,"Central America and the Caribbean",7958,3/23/10,3/29/10,BB,772159326
+Offline,H,Clothes,"Central America and the Caribbean",7150,6/1/11,7/16/11,BB,669832408
+Offline,H,Meat,"Central America and the Caribbean",3235,1/16/12,1/19/12,BB,757544934
+Offline,H,Clothes,Europe,4947,10/27/14,11/8/14,LU,235994756

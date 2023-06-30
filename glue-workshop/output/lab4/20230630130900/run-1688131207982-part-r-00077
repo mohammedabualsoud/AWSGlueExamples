@@ -1,0 +1,7 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,H,Cereal,Europe,2907,10/7/11,10/30/11,GR,672521483
+Online,H,Snacks,Europe,6366,10/12/12,11/27/12,GR,275672137
+Offline,L,Cereal,Europe,5185,11/11/12,12/18/12,GR,585344111
+Offline,H,Meat,"Middle East and North Africa",862,2/13/10,2/28/10,LY,989962852
+Offline,C,Household,Europe,206,2/24/15,2/25/15,AM,209282529
+Offline,L,Beverages,Europe,1139,7/28/10,9/4/10,AM,766661870

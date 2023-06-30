@@ -1,0 +1,13 @@
+"sales channel","order priority","item type",region,"units sold","order date","ship date",Code,uuid
+Offline,M,"Office Supplies","Middle East and North Africa",2450,1/31/11,2/21/11,QA,499400126
+Online,H,"Personal Care","Middle East and North Africa",9669,3/15/14,4/29/14,QA,399229276
+Online,M,Cereal,"Central America and the Caribbean",3948,3/7/11,4/17/11,HT,498458993
+Online,M,"Personal Care","Central America and the Caribbean",5419,5/14/12,6/4/12,HT,570881640
+Online,L,Vegetables,"Central America and the Caribbean",8966,12/21/14,1/23/15,HT,447077310
+Online,M,Household,"Central America and the Caribbean",9744,2/14/13,3/15/13,HT,488847672
+Offline,H,"Office Supplies",Europe,8344,11/12/11,12/1/11,MT,667133033
+Online,C,Fruits,Europe,3185,12/30/10,1/1/11,MT,422963607
+Offline,M,Meat,"Australia and Oceania",2787,2/3/17,3/4/17,TV,305701720
+Online,C,Clothes,"Australia and Oceania",5356,6/24/14,7/10/14,TV,885389745
+Online,L,Cosmetics,"Australia and Oceania",9134,3/31/12,4/23/12,TV,361650025
+Offline,C,Cereal,Europe,6041,11/25/14,12/24/14,AT,620761716
